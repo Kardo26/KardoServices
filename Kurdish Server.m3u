@@ -298,3 +298,459 @@ https://ssl22.radyotelekom.com:8224/stream
 --------------------------
 Kurdsih VIP
 --------------------------
+--------------------------
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Rudaw HD" tvg-logo="https://16k.xyz/images/c0d31a4071d06be36cdbf85175fc3285.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Rudaw HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/256539.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rudaw 4K" tvg-logo="https://16k.xyz/images/c0d31a4071d06be36cdbf85175fc3285.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Rudaw 4K
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/256538.ts
+#EXTINF:-1 tvg-id="" tvg-name="RONAHI TV" tvg-logo="https://16k.xyz/images/bc3ac2b2d2877a95fc3a200e1d1072b7.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",RONAHI TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153256.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROJAVA" tvg-logo="https://16k.xyz/images/c0d31a4071d06be36cdbf85175fc3285.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ROJAVA
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/214311.ts
+#EXTINF:-1 tvg-id="" tvg-name="AVA TV" tvg-logo="https://16k.xyz/images/52b01b54de08a2f5f4159e12c4b7ee78.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",AVA TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153239.ts
+#EXTINF:-1 tvg-id="" tvg-name="AVA SERIES HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",AVA SERIES HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300324.ts
+#EXTINF:-1 tvg-id="" tvg-name="AVA FAMILY HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",AVA FAMILY HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300323.ts
+#EXTINF:-1 tvg-id="" tvg-name="KURDISTAN 24" tvg-logo="https://16k.xyz/images/2adbcf3e1e055b79332bf48007725d32.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KURDISTAN 24
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153275.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shams Tv News" tvg-logo="https://16k.xyz/images/shamstvnews.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Shams Tv News
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/276463.ts
+#EXTINF:-1 tvg-id="" tvg-name="STERK KURD" tvg-logo="https://16k.xyz/images/b50ef1e34c53a792c0b4e26cf83c94f4.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",STERK KURD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153258.ts
+#EXTINF:-1 tvg-id="" tvg-name="NRT 1" tvg-logo="https://16k.xyz/images/a38ddc8d29a8252ac3bedc8f55ac059a.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NRT 1
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/228256.ts
+#EXTINF:-1 tvg-id="" tvg-name="NRT 2" tvg-logo="http://myserveriptv.com:2082/images/268ee7670bc696699c131f646039709e.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NRT 2
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153290.ts
+#EXTINF:-1 tvg-id="" tvg-name="NRT 3 Kids" tvg-logo="https://16k.xyz/images/d83f4a0d377de0457489a0b1b7da7079.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NRT 3 Kids
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/226345.ts
+#EXTINF:-1 tvg-id="" tvg-name="NRT 4" tvg-logo="https://16k.xyz/images/c22a1f4a43f35aefd7060d1f848d6143.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NRT 4
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153253.ts
+#EXTINF:-1 tvg-id="" tvg-name="KURDSAT NEWS" tvg-logo="https://16k.xyz/images/896446d786d5e4e4943fbd6bc5269087.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KURDSAT NEWS
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/236927.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kurdsat TV" tvg-logo="https://16k.xyz/images/217b4fcc1f2eaf1dbd3c4b92cacf5be4.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Kurdsat TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/155097.ts
+#EXTINF:-1 tvg-id="" tvg-name="KurdMax Tv" tvg-logo="https://16k.xyz/images/5d053924a79827432054eab02dac565f.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KurdMax Tv
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153281.ts
+#EXTINF:-1 tvg-id="" tvg-name="KurdMax Show TV" tvg-logo="https://16k.xyz/images/70cffe621dc26dd7fbf2dd35d30edfc4.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KurdMax Show TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/246963.ts
+#EXTINF:-1 tvg-id="" tvg-name="KurdMax Music" tvg-logo="https://16k.xyz/images/70cffe621dc26dd7fbf2dd35d30edfc4.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KurdMax Music
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/246935.ts
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://16k.xyz/images/97af4cc6ee709848ba52e46187fac1d3.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NET TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153251.ts
+#EXTINF:-1 tvg-id="" tvg-name="GALI KURDISTAN TV" tvg-logo="https://16k.xyz/images/c884dd72a33c6b0a1acfddafebeeb96a.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",GALI KURDISTAN TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153241.ts
+#EXTINF:-1 tvg-id="" tvg-name="WAAR TV" tvg-logo="https://16k.xyz/images/be2149d390a5e65ae5adb932a0301ea4.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",WAAR TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153261.ts
+#EXTINF:-1 tvg-id="" tvg-name="KURDISTAN TV" tvg-logo="https://16k.xyz/images/a3aa104bf9a4125b565d6ef54c7a4137.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KURDISTAN TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153246.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZAGROS TV" tvg-logo="https://16k.xyz/images/8a72053433e95c5af00a5a91b5d43355.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ZAGROS TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153262.ts
+#EXTINF:-1 tvg-id="" tvg-name="KIRKUK TV" tvg-logo="https://16k.xyz/images/ccb30feb4cd95bfc45eb8c38dc4cab91.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KIRKUK TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153244.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMOZHGARY" tvg-logo="https://16k.xyz/images/0a051db25cd6af2d7d34a3e28aa0d9fb.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",AMOZHGARY
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/155083.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPEDA TV" tvg-logo="https://16k.xyz/images/60568b3e8222bf5bf383d41c8d748e08.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",SPEDA TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153257.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bangawaz" tvg-logo="http://myserveriptv.com:2082/images/c7ac25b7d5fc9b7f6bebb39e88b456fa.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Bangawaz
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153271.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAYAM" tvg-logo="https://16k.xyz/images/d914842f287e2a406b5011ff79117227.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",PAYAM
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153254.ts
+#EXTINF:-1 tvg-id="" tvg-name="IRAQIA KURD" tvg-logo="https://16k.xyz/images/450ab34ceb6b602ee71095ead40c98ab.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",IRAQIA KURD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153274.ts
+#EXTINF:-1 tvg-id="" tvg-name="SAHAR KURDI" tvg-logo="https://16k.xyz/images/9bcf05eb965ba1f7a66eab50571b9c45.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",SAHAR KURDI
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153263.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARYEN TV" tvg-logo="https://16k.xyz/images/02e514fec42743939119be739a6fb616.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ARYEN TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153238.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT KURDI" tvg-logo="https://16k.xyz/images/1e71a8e290fba16cf95228e6176a3f29.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",TRT KURDI
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153259.ts
+#EXTINF:-1 tvg-id="" tvg-name="4 KURD" tvg-logo="https://16k.xyz/images/f6a0c155a1822d2ea72827b580d835c2.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",4 KURD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153264.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZAROK" tvg-logo="https://16k.xyz/images/d2373626f6a08aaca850f53cc651f58e.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ZAROK
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153297.ts
+#EXTINF:-1 tvg-id="" tvg-name="JIN TV" tvg-logo="https://16k.xyz/images/92eea058d4d9fe91d38d69640cfbbb9d.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",JIN TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153243.ts
+#EXTINF:-1 tvg-id="" tvg-name="A TV" tvg-logo="https://16k.xyz/images/a7846d60a2d0ed0585a77a51f7c622aa.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",A TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153268.ts
+#EXTINF:-1 tvg-id="" tvg-name="IMN KURDISH" tvg-logo="https://16k.xyz/images/0333a0ce91928d2e4f54ebe8dd9d4dfb.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",IMN KURDISH
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153242.ts
+#EXTINF:-1 tvg-id="" tvg-name="TURKMEN TV" tvg-logo="https://16k.xyz/images/b6b69d72a5898f43174cab27f0ec7c9f.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",TURKMEN TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153237.ts
+#EXTINF:-1 tvg-id="" tvg-name="TURKMENELI TV" tvg-logo="https://16k.xyz/images/d932f7aa6c3c24b06412cd2adfea1b4b.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",TURKMENELI TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/153260.ts
+#EXTINF:-1 tvg-id="" tvg-name="Medya Haber" tvg-logo="https://16k.xyz/images/36e43695b1036b5e353d1ba5eb4948f7.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Medya Haber
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/214303.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cira TV" tvg-logo="https://16k.xyz/images/6174ccafc69314632e36b17582fe0eb7.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Cira TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/228209.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rasan" tvg-logo="https://16k.xyz/images/7761166972b220d4b568632fc43da2d2.png" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Rasan
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/228268.ts
+#EXTINF:-1 tvg-id="" tvg-name="MMN Show" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MMN Show
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300268.ts
+#EXTINF:-1 tvg-id="" tvg-name="MMN Drama" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MMN Drama
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300269.ts
+#EXTINF:-1 tvg-id="" tvg-name="MMN Quran" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MMN Quran
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300270.ts
+#EXTINF:-1 tvg-id="" tvg-name="MMN Clip" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MMN Clip
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300271.ts
+#EXTINF:-1 tvg-id="" tvg-name="MMN Radio Turk" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MMN Radio Turk
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300272.ts
+#EXTINF:-1 tvg-id="" tvg-name="KurdMax Pepule" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KurdMax Pepule
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300288.ts
+#EXTINF:-1 tvg-id="" tvg-name="NRT Sport" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NRT Sport
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300289.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zed Tv" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Zed Tv
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300290.ts
+#EXTINF:-1 tvg-id="" tvg-name="Med Music" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Med Music
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300291.ts
+#EXTINF:-1 tvg-id="" tvg-name="Reng Documentary" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Reng Documentary
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300066.ts
+#EXTINF:-1 tvg-id="" tvg-name="4U TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",4U TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300302.ts
+#EXTINF:-1 tvg-id="" tvg-name="4U+ TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",4U+ TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300303.ts
+#EXTINF:-1 tvg-id="" tvg-name="AFARIN BAXCHA TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",AFARIN BAXCHA TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300304.ts
+#EXTINF:-1 tvg-id="" tvg-name="AFARIN KIDS HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",AFARIN KIDS HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300305.ts
+#EXTINF:-1 tvg-id="" tvg-name="AFRA FILM HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",AFRA FILM HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300306.ts
+#EXTINF:-1 tvg-id="" tvg-name="AFRA SERIES HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",AFRA SERIES HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300307.ts
+#EXTINF:-1 tvg-id="" tvg-name="AGN SAT" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",AGN SAT
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300308.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL BOX HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ANIMAL BOX HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300309.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARAX TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ARAX TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300310.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARIFAN HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ARIFAN HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300311.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARO DRAMA HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ARO DRAMA HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300312.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARO FAMILY HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ARO FAMILY HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300313.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASMAN HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ASMAN HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300314.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASO SPORT HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ASO SPORT HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300315.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTERA BABY HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ASTERA BABY HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300316.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTERA CULTURE HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ASTERA CULTURE HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300317.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTERA DOCUMENTARY HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ASTERA DOCUMENTARY HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300318.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTERA FAMILY HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ASTERA FAMILY HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300319.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTERA MOVIES HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ASTERA MOVIES HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300320.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTERA SHOW HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ASTERA SHOW HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300321.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTERA SPORT HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ASTERA SPORT HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300322.ts
+#EXTINF:-1 tvg-id="" tvg-name="AVA SPORT HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",AVA SPORT HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300325.ts
+#EXTINF:-1 tvg-id="" tvg-name="AVANG TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",AVANG TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300326.ts
+#EXTINF:-1 tvg-id="" tvg-name="AVAR TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",AVAR TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300327.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABOLLY HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",BABOLLY HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300329.ts
+#EXTINF:-1 tvg-id="" tvg-name="Badinan TV HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Badinan TV HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300330.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAHA ENTERTAIMENT" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",BAHA ENTERTAIMENT
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300331.ts
+#EXTINF:-1 tvg-id="" tvg-name="BARIN FAMILY HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",BARIN FAMILY HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300332.ts
+#EXTINF:-1 tvg-id="" tvg-name="BARIN HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",BARIN HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300333.ts
+#EXTINF:-1 tvg-id="" tvg-name="BARIN MOVIES HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",BARIN MOVIES HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300334.ts
+#EXTINF:-1 tvg-id="" tvg-name="BARIN QURAN HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",BARIN QURAN HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300335.ts
+#EXTINF:-1 tvg-id="" tvg-name="BASK HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",BASK HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300336.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEANO KIDS HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",BEANO KIDS HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300338.ts
+#EXTINF:-1 tvg-id="" tvg-name="BINER HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",BINER HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300339.ts
+#EXTINF:-1 tvg-id="" tvg-name="BMC HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",BMC HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300340.ts
+#EXTINF:-1 tvg-id="" tvg-name="BNAR HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",BNAR HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300341.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAFE TRADE TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",CAFE TRADE TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300342.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 8 HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",CHANNEL 8 HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300343.ts
+#EXTINF:-1 tvg-id="" tvg-name="CIHAN HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",CIHAN HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300344.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIC TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",CLASSIC TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300345.ts
+#EXTINF:-1 tvg-id="" tvg-name="DASINYA HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",DASINYA HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300346.ts
+#EXTINF:-1 tvg-id="" tvg-name="DASINYA KIDS HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",DASINYA KIDS HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300347.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dasinya Music HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Dasinya Music HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300348.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dasinya Sport HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Dasinya Sport HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300349.ts
+#EXTINF:-1 tvg-id="" tvg-name="DASINYA SPORT HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",DASINYA SPORT HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300350.ts
+#EXTINF:-1 tvg-id="" tvg-name="DELAL HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",DELAL HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300351.ts
+#EXTINF:-1 tvg-id="" tvg-name="DERIN TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",DERIN TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300352.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIGI MOVIE HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",DIGI MOVIE HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300353.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIMEN HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",DIMEN HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300354.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUHOK HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",DUHOK HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300355.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUHOK PARWADA" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",DUHOK PARWADA
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300356.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUHOK SPORTS HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",DUHOK SPORTS HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300357.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eman HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Eman HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300358.ts
+#EXTINF:-1 tvg-id="" tvg-name="EURO KURD HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",EURO KURD HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300359.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evin TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Evin TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300360.ts
+#EXTINF:-1 tvg-id="" tvg-name="FARMODA HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",FARMODA HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300361.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIL ANIMAL 4K" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",FIL ANIMAL 4K
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300362.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIRST HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",FIRST HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300364.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIRST KIDS HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",FIRST KIDS HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300365.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",FOX HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300366.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX ONE HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",FX ONE HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300367.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX TWO HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",FX TWO HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300368.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAND CINEMA HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",GRAND CINEMA HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300369.ts
+#EXTINF:-1 tvg-id="" tvg-name="Helhelok TV HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Helhelok TV HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300370.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOME+ HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",HOME+ HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300371.ts
+#EXTINF:-1 tvg-id="" tvg-name="ICC HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ICC HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300372.ts
+#EXTINF:-1 tvg-id="" tvg-name="IRIB KORDESTAN" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",IRIB KORDESTAN
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300374.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITN HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ITN HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300375.ts
+#EXTINF:-1 tvg-id="" tvg-name="JAMAWAR HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",JAMAWAR HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300376.ts
+#EXTINF:-1 tvg-id="" tvg-name="JOJO MAMA HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",JOJO MAMA HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300377.ts
+#EXTINF:-1 tvg-id="" tvg-name="K24 DOCUMENTARY HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",K24 DOCUMENTARY HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300378.ts
+#EXTINF:-1 tvg-id="" tvg-name="KALAPOR TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KALAPOR TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300379.ts
+#EXTINF:-1 tvg-id="" tvg-name="KANI HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KANI HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300380.ts
+#EXTINF:-1 tvg-id="" tvg-name="KHAK HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KHAK HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300381.ts
+#EXTINF:-1 tvg-id="" tvg-name="KIDCO HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KIDCO HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300382.ts
+#EXTINF:-1 tvg-id="" tvg-name="KOMALL TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KOMALL TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300383.ts
+#EXTINF:-1 tvg-id="" tvg-name="KURD 7 HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KURD 7 HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300384.ts
+#EXTINF:-1 tvg-id="" tvg-name="KURD MOVIES HD1" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KURD MOVIES HD1
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300385.ts
+#EXTINF:-1 tvg-id="" tvg-name="KURD MOVIES HD2" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KURD MOVIES HD2
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300386.ts
+#EXTINF:-1 tvg-id="" tvg-name="KURDANE HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KURDANE HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300387.ts
+#EXTINF:-1 tvg-id="" tvg-name="KurdCinema Sport 1 HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KurdCinema Sport 1 HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300388.ts
+#EXTINF:-1 tvg-id="" tvg-name="KURDISTAN SPORT HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",KURDISTAN SPORT HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300389.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lalish TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Lalish TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300390.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAWAN HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",LAWAN HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300391.ts
+#EXTINF:-1 tvg-id="" tvg-name="LD ANIME HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",LD ANIME HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300392.ts
+#EXTINF:-1 tvg-id="" tvg-name="LD FAMILY HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",LD FAMILY HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300393.ts
+#EXTINF:-1 tvg-id="" tvg-name="LD KURDCINEMEMA HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",LD KURDCINEMEMA HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300394.ts
+#EXTINF:-1 tvg-id="" tvg-name="LD PSHDAR HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",LD PSHDAR HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300395.ts
+#EXTINF:-1 tvg-id="" tvg-name="LD SPORT 1 HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",LD SPORT 1 HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300396.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIFE HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",LIFE HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300397.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIKE DOCUMENTARY HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",LIKE DOCUMENTARY HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300398.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIKE MOVIES 2 HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",LIKE MOVIES 2 HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300399.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIKE MOVIES HD1" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",LIKE MOVIES HD1
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300400.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIKE QURAN HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",LIKE QURAN HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300401.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAAH TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MAAH TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300402.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAJD KIDS HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MAJD KIDS HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300403.ts
+#EXTINF:-1 tvg-id="" tvg-name="ME2 TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ME2 TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300404.ts
+#EXTINF:-1 tvg-id="" tvg-name="META FILM HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",META FILM HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300405.ts
+#EXTINF:-1 tvg-id="" tvg-name="MIHAN TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MIHAN TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300406.ts
+#EXTINF:-1 tvg-id="" tvg-name="MIHRAB FM" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MIHRAB FM
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300407.ts
+#EXTINF:-1 tvg-id="" tvg-name="MIHRAB TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MIHRAB TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300408.ts
+#EXTINF:-1 tvg-id="" tvg-name="MINARA HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MINARA HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300409.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTC HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MTC HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300410.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV FAMILY HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MTV FAMILY HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300411.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV KIDS HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MTV KIDS HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300412.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV MUSIC HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MTV MUSIC HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300413.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV PREMIERE HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MTV PREMIERE HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300414.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV SPORT HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MTV SPORT HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300415.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV STARS" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",MTV STARS
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300416.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAHADE AZADI" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NAHADE AZADI
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300417.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAVAHANG TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NAVAHANG TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300418.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEGAH TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NEGAH TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300419.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEW KIDS" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NEW KIDS
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300420.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWFLIX TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NEWFLIX TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300421.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWLINE HD1" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NEWLINE HD1
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300423.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWLINE HD2" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NEWLINE HD2
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300424.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWLINE KIDS HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NEWLINE KIDS HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300425.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWLINE MOVIES HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NEWLINE MOVIES HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300426.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWLINE SPORT HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NEWLINE SPORT HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300427.ts
+#EXTINF:-1 tvg-id="" tvg-name="NewMax HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NewMax HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300428.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWMAX KIDS HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NEWMAX KIDS HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300429.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEXT HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NEXT HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300430.ts
+#EXTINF:-1 tvg-id="" tvg-name="NIGA FAMILY HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NIGA FAMILY HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300431.ts
+#EXTINF:-1 tvg-id="" tvg-name="Niga Kids" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Niga Kids
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300432.ts
+#EXTINF:-1 tvg-id="" tvg-name="NIROJ HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NIROJ HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300433.ts
+#EXTINF:-1 tvg-id="" tvg-name="NISHTIMANI MN HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NISHTIMANI MN HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300434.ts
+#EXTINF:-1 tvg-id="" tvg-name="NUBAR HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NUBAR HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300436.ts
+#EXTINF:-1 tvg-id="" tvg-name="NUBAR SPORT TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NUBAR SPORT TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300438.ts
+#EXTINF:-1 tvg-id="" tvg-name="NUJIN TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",NUJIN TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300439.ts
+#EXTINF:-1 tvg-id="" tvg-name="ONE WORLD HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ONE WORLD HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300440.ts
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ORANGE TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300441.ts
+#EXTINF:-1 tvg-id="" tvg-name="OXIR TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",OXIR TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300442.ts
+#EXTINF:-1 tvg-id="" tvg-name="PBS KIDS HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",PBS KIDS HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300443.ts
+#EXTINF:-1 tvg-id="" tvg-name="Peshmarga TV HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Peshmarga TV HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300444.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRO QURAN TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",PRO QURAN TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300445.ts
+#EXTINF:-1 tvg-id="" tvg-name="QALAT HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",QALAT HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300446.ts
+#EXTINF:-1 tvg-id="" tvg-name="RANYA HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",RANYA HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300447.ts
+#EXTINF:-1 tvg-id="" tvg-name="Reng HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Reng HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300448.ts
+#EXTINF:-1 tvg-id="" tvg-name="RJ TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",RJ TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300449.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROYAL TIME TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ROYAL TIME TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300450.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROZH HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ROZH HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300451.ts
+#EXTINF:-1 tvg-id="" tvg-name="SADA TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",SADA TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300452.ts
+#EXTINF:-1 tvg-id="" tvg-name="SEE SPORT 1" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",SEE SPORT 1
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300453.ts
+#EXTINF:-1 tvg-id="" tvg-name="SEE SPORT 2" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",SEE SPORT 2
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300454.ts
+#EXTINF:-1 tvg-id="" tvg-name="SEE SPORT 3" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",SEE SPORT 3
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300455.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHAISTA HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",SHAISTA HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300456.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHAR HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",SHAR HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300457.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHNA TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",SHNA TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300458.ts
+#EXTINF:-1 tvg-id="" tvg-name="SILEMANI HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",SILEMANI HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300459.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIMA DOCUMENTARY HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",SIMA DOCUMENTARY HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300460.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sima HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Sima HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300461.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIMA SPORTS HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",SIMA SPORTS HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300462.ts
+#EXTINF:-1 tvg-id="" tvg-name="SL 1 TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",SL 1 TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300463.ts
+#EXTINF:-1 tvg-id="" tvg-name="SL 2 TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",SL 2 TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300464.ts
+#EXTINF:-1 tvg-id="" tvg-name="SORAN ENTERTAIMENT HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",SORAN ENTERTAIMENT HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300465.ts
+#EXTINF:-1 tvg-id="" tvg-name="SOZ QURAN HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",SOZ QURAN HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300466.ts
+#EXTINF:-1 tvg-id="" tvg-name="SRUSHT HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",SRUSHT HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300467.ts
+#EXTINF:-1 tvg-id="" tvg-name="T2 TAPESH" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",T2 TAPESH
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300468.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAPESH HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",TAPESH HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300469.ts
+#EXTINF:-1 tvg-id="" tvg-name="TM TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",TM TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300470.ts
+#EXTINF:-1 tvg-id="" tvg-name="U2TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",U2TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300471.ts
+#EXTINF:-1 tvg-id="" tvg-name="UTV Duhok HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",UTV Duhok HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300472.ts
+#EXTINF:-1 tvg-id="" tvg-name="UTV HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",UTV HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300473.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vin" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Vin
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300474.ts
+#EXTINF:-1 tvg-id="" tvg-name="VodFlix Animation HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",VodFlix Animation HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300475.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wasela Quran HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",Wasela Quran HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300476.ts
+#EXTINF:-1 tvg-id="" tvg-name="WELAT HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",WELAT HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300477.ts
+#EXTINF:-1 tvg-id="" tvg-name="XABIR HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",XABIR HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300478.ts
+#EXTINF:-1 tvg-id="" tvg-name="YOUR TIME TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",YOUR TIME TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300479.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZAXO SPORT TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ZAXO SPORT TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300480.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZAXO TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ZAXO TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300481.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZED PLUS HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ZED PLUS HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300482.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZNAR TV" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ZNAR TV
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300483.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZOOM HD" tvg-logo="" tvg-country="Unknown" group-title="Kurdistan ✦ كوردستان" tvg-flag="",ZOOM HD
+http://iptvh2o.com:2082/live/Raghadaldaka/MkmcTAVQXkg2/300484.ts
