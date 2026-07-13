@@ -15,8 +15,8 @@ https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
 #EXTINF:-1 tvg-name="Rudaw" group-title="Kurdish News", Rudaw
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-#EXTINF:-1 tvg-name="Gali Kurdistan" group-title="Kurdish News", Gali Kurdistan
-https://live.host247.net/gk/gksat/chunklist_w73084576.m3u8
+#EXTINF:-1 tvg-name="Gali Kurdistan" group-title="Kurdish Sat",Gali Kurdistan
+https://live.host247.net/gk/gksat/chunklist_w950982176.m3u8
 --------------------------
 --------------------------
 Kurdish Sattelite
@@ -35,8 +35,8 @@ https://barham.short.gy/nrt.news.m3u8
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:-1 tvg-name="Channel 8" group-title="Kurdish Sat", Channel 8 News
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
-#EXTINF:-1 tvg-name="Rudaw" group-title="Kurdish Sat",Rudaw
-https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
+#EXTINF:-1 tvg-name="Rudaw" group-title="Kurdish News", Rudaw
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 tvg-name="AMOZHGARY Academy TV" group-title="Kurdish Sat",AMOZHGARY Academy TV
 https://app-live.org/live/a267c1b3/index.m3u8
 #EXTINF:-1 tvg-name="Gali Kurdistan" group-title="Kurdish Sat",Gali Kurdistan
@@ -45,8 +45,8 @@ https://live.host247.net/gk/gksat/chunklist_w950982176.m3u8
 http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cira TV" group-title="Kurdish Sat",Cira TV
 https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
-#EXTINF:-1 tvg-name="Can TV" group-title="Kurdish Sat",Can TV
-https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
+#EXTINF:-1 tvg-name="trt kurdish TV" group-title="Kurdish Sat",trt kurdish TV
+https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-name="Dengê Zelal TV" group-title="Kurdish Sat",Dengê Zelal TV
 https://dengetv.ozelip.com:3143/live/dengelive.m3u8
 #EXTINF:-1 tvg-name="EUROKURD" group-title="Kurdish Sat",EUROKURD
@@ -70,9 +70,9 @@ https://6476e46b58f91.streamlock.net/liveTrans/SHOWB234/playlist.m3u8
 #EXTINF:-1 tvg-name="Kirkuk TV" group-title="Kurdish Sat",Kirkuk TV
 https://live.kirkuklive.live/hls/stream/index.m3u8
 #EXTINF:-1 tvg-name="Komala" group-title="Kurdish Sat",Komala
-https://live.tvkomala.com/live/komala/chunks.m3u8?nimblesessionid=23999082
+https://komhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Kurd Channel" group-title="Kurdish Sat",Kurd Channel
-https://northtelecom.live/KURD.m3u8
+https://kurdchhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Kurdmax Music" group-title="Kurdish Sat",Kurdmax Music
 https://6476e46b58f91.streamlock.net/music/MUSIC2402/chunklist_w931941887.m3u8
 #EXTINF:-1 tvg-name="Med Muzik TV" group-title="Kurdish Sat",Med Muzik TV
@@ -99,12 +99,6 @@ https://stream.badinan.xyz/welat/tv/chunklist_w676236754.m3u8
 https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-name="Zarok TV Kurmanci" group-title="Kurdish Sat",Zarok TV Kurmanci
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
-#EXTINF:-1 tvg-name="NRT 2" group-title="Kurdish Sat",NRT 2
-https://ca-rt.onetv.app/NRT2/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-name="NRT 3" group-title="Kurdish Sat",NRT 3
-http://109.71.252.138/Nrt3/video.m3u8?token=yusfstaore@asdasdfadaaafffs
-#EXTINF:-1 tvg-name="NRT 4" group-title="Kurdish Sat",NRT 4
-https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
 --------------------------
 --------------------------
 Kurdish Local
@@ -283,11 +277,11 @@ http://109.71.252.138/Nrt3/video.m3u8?token=yusfstaore@asdasdfadaaafffs
 --------------------------
 Kurdish Sport
 --------------------------
-#EXTINF:-1 tvg-name="Spi Sport" group-title="Kurdish Sport",Spi Sport
+#EXTINF:-1 tvg-name="Spi Sport." group-title="Kurdish Sport",Spi Sport.
 https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8
-#EXTINF:-1 tvg-name="MMN SPORT" group-title="Kurdish Sport",MMN SPORT
+#EXTINF:-1 tvg-name="MMN SPORT." group-title="Kurdish Sport",MMN SPORT.
 http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
-#EXTINF:-1 tvg-name="Zaytoun Sport TV" group-title="Kurdish Sport",Zaytoun Sport TV
+#EXTINF:-1 tvg-name="Zaytoun Sport TV." group-title="Kurdish Sport",Zaytoun Sport TV.
 https://barham.short.gy/zvgsport.m3u8
 --------------------------
 --------------------------
