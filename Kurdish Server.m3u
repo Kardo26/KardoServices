@@ -3,20 +3,22 @@
 --------------------------
 Kurdsih News
 --------------------------
-#EXTINF:-1 tvg-name="Nûçe TV" group-title="Kurdish News",Nûçe TV
+#EXTINF:-1 tvg-name="Nûçe TV" group-title="Kurdish News",Nûçe TV.
 https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
-#EXTINF:-1  tvg-name="AVA TV"  group-title="Kurdish News",AVA News
+#EXTINF:-1  tvg-name="AVA TV"  group-title="Kurdish News",AVA News.
 https://ava2.store/upload/ava.m3u8
-#EXTINF:-1 tvg-name="NRT" group-title="Kurdish News",NRT   
+#EXTINF:-1 tvg-name="NRT" group-title="Kurdish News",NRT.  
 https://barham.short.gy/nrt.news.m3u8
-#EXTINF:-1 tvg-name="Kurdsat News" group-title="Kurdish News",Kurdsat News
+#EXTINF:-1 tvg-name="Kurdsat News" group-title="Kurdish News",Kurdsat News.
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
-#EXTINF:-1 tvg-name="Channel 8" group-title="Kurdish News", Channel 8 News
+#EXTINF:-1 tvg-name="Channel 8" group-title="Kurdish News", Channel 8 News.
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
-#EXTINF:-1 tvg-name="Rudaw" group-title="Kurdish News", Rudaw
+#EXTINF:-1 tvg-name="Rudaw" group-title="Kurdish News", Rudaw.
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-#EXTINF:-1 tvg-name="Gali Kurdistan" group-title="Kurdish Sat",Gali Kurdistan
+#EXTINF:-1 tvg-name="Gali Kurdistan" group-title="Kurdish Sat",Gali Kurdistan.
 https://live.host247.net/gk/gksat/chunklist_w950982176.m3u8
+#EXTINF:-1 tvg-name="MMN NEWS" group-title="Kurdish Local",MMN NEWS
+http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
 --------------------------
 --------------------------
 Kurdish Sattelite
@@ -99,6 +101,8 @@ https://stream.badinan.xyz/welat/tv/chunklist_w676236754.m3u8
 https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-name="Zarok TV Kurmanci" group-title="Kurdish Sat",Zarok TV Kurmanci
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-name="4 Kurd TV" group-title="Kurdish Sat",4 Kurd TV
+https://4kuhls.persiana.live/hls/stream.m3u8
 --------------------------
 --------------------------
 Kurdish Local
@@ -131,8 +135,6 @@ https://cdn.karwan.tv/barin-movies/index.m3u8
 https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8
 #EXTINF:-1 tvg-name="Infinity TV" group-title="Kurdish Local",Infinity TV
 https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="4 Kurd TV" group-title="Kurdish Local",4 Kurd TV
-https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Animal Box" group-title="Kurdish Local",Animal Box
 https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
 #EXTINF:-1 tvg-name="AVAR TV" group-title="Kurdish Local",AVAR TV
@@ -141,12 +143,6 @@ https://avr.host247.net/live/AvarTv/playlist.m3u8
 http://avrstream.com:1935/live/ala-hd/playlist.m3u8
 #EXTINF:-1 tvg-name="Baba GurGur TV" group-title="Kurdish Local",Baba GurGur TV
 https://barham.short.gy/BabaGuGurTV.m3u8
-#EXTINF:-1 tvg-name="BARIN MOVIES TV" group-title="Kurdish Local",BARIN MOVIES TV
-http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
-#EXTINF:-1 tvg-name="BARIN Family TV" group-title="Kurdish Local",BARIN Family TV
-http://baskhd.ddns.net:40/live/BarinfamilyHD/HawezHD.m3u8
-#EXTINF:-1 tvg-name="BARIN QURAN TV" group-title="Kurdish Local",BARIN QURAN TV
-http://baskhd.ddns.net:40/live/QURANHDTV/HawezHD.m3u8
 #EXTINF:-1 tvg-name="BNAR TV" group-title="Kurdish Local",BNAR TV
 http://baskhd.ddns.net:40/live/bnar4k/mono.m3u8
 #EXTINF:-1 tvg-name="BNAR Movies TV" group-title="Kurdish Local",BNAR Movies TV
@@ -155,7 +151,7 @@ http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
 http://baskhd2.ddns.net:1935/live/basktv/playlist.m3u8
 #EXTINF:-1 tvg-name="BASK PLUS HD" group-title="Kurdish Local",BASK PLUS HD
 http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
-#EXTINF:-1 tvg-name="BASK Kids HD" group-title="Kurdish Local",BASK Kids HD
+#EXTINF:-1 tvg-name="One Kids" group-title="Kurdish Local",One Kids
 http://217.76.62.187/hls/kids.m3u8
 #EXTINF:-1 tvg-name="Eman TV" group-title="Kurdish Local",Eman TV
 https://avr.host247.net/live/emantv/playlist.m3u8
@@ -176,14 +172,12 @@ http://imkhd.ddns.net:1935/live/imkhd/HawezHD.m3u8
 #EXTINF:-1 tvg-name="IMK QURAN HD" group-title="Kurdish Local",IMK QURAN HD
 http://avrstream.com:1935/live/IMKQURANHD/HawezHD.m3u8
 #EXTINF:-1 tvg-name="KHAK TV" group-title="Kurdish Local",KHAK TV
-http://bblserver.ddns.net:1935/stream/khakhd/hawezhd.m3u8
+http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
 #EXTINF:-1 tvg-name="KIDCO" group-title="Kurdish Local",KIDCO
 http://avrstream.com:1935/live/kidcohd/playlist.m3u8
-#EXTINF:-1 tvg-name="Kurd 7" group-title="Kurdish Local",Kurd 7
-http://avrstream.com:1935/live/Kurd7HD/playlist.m3u8
 #EXTINF:-1 tvg-name="MMN SHOW" group-title="Kurdish Local",MMN SHOW
 http://mmn.mypsx.net:1935/live/mmnhddshow/playlist.m3u8
-#EXTINF:-1 tvg-name="MMN NEWS" group-title="Kurdish Local",MMN NEWS
+#EXTINF:-1 tvg-name="MMN NEWS" group-title="Kurdish Local",MMN NEWS.
 http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
 #EXTINF:-1 tvg-name="MMN MOVIES" group-title="Kurdish Local",MMN MOVIES
 http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8
@@ -201,8 +195,6 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 http://bblserver.ddns.net:1935/live/mihrabfm/playlist.m3u8
 #EXTINF:-1 tvg-name="Mix TV" group-title="Kurdish Local",Mix TV
 http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8?fbclid=IwY2xjawJqPHxleHRuA2FlbQIxMQABHnMOKA67ZkZIJS5ctKSN2-BD8wmcqKIGtVwZIOMvIVLCflJYceBiqt8_myYt_aem_RSxVnDSyf3hVI9TpHIqH9Q
-#EXTINF:-1 tvg-name="NaqshiMedia" group-title="Kurdish Local",NaqshiMedia
-http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
 #EXTINF:-1 tvg-name="Qalam" group-title="Kurdish Local",Qalam
 http://109.71.252.138/Qalamtv/video.m3u8?token=yusfstaore@asdasdfadaaafffs
 #EXTINF:-1 tvg-name="Qalam Ayni" group-title="Kurdish Local",Qalam Ayni
@@ -215,26 +207,16 @@ https://parwarda.unitedmixmedia.tv/Parwarda/tracks-v2a1/mono.m3u8
 https://parwarda.unitedmixmedia.tv/Parwardayi_Hawler/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="Parwarday Duhok" group-title="Kurdish Local",Parwarday Duhok
 https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-name="Rawshan HD" group-title="Kurdish Local",Rawshan HD
+#EXTINF:-1 tvg-name="Shna quran HD" group-title="Kurdish Local",Shna quran HD
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
-#EXTINF:-1 tvg-name="Soran Entertainment" group-title="Kurdish Local",Soran Entertainment
-http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
 #EXTINF:-1 tvg-name="SPI QURAN HD" group-title="Kurdish Local",SPI QURAN HD
 https://live20.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/chunks.m3u8
 #EXTINF:-1 tvg-name="SPI Kids 4K" group-title="Kurdish Local",SPI Kids 4K
 https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 #EXTINF:-1 tvg-name="SOZ QURAN" group-title="Kurdish Local",SOZ QURAN
 http://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8
-#EXTINF:-1 tvg-name="SOZ QURAN 2" group-title="Kurdish Local",SOZ QURAN 2
-https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
 #EXTINF:-1 tvg-name="SOZ TV" group-title="Kurdish Local",SOZ TV
 https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
-#EXTINF:-1 tvg-name="SADA" group-title="Kurdish Local",SADA
-http://sada-hd.ddns.net:40/live/sadatv/HawezHD.m3u8
-#EXTINF:-1 tvg-name="Shan Quran" group-title="Kurdish Local",Shan Quran
-http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
-#EXTINF:-1 tvg-name="SRUSHT" group-title="Kurdish Local",SRUSHT
-http://109.71.252.138/Sroshttv/video.m3u8?token=yusfstaore@asdasdfadaaafffs
 #EXTINF:-1 tvg-name="Zaytoun TV" group-title="Kurdish Local",Zaytoun TV
 https://barham.short.gy/VPTcoB.m3u8
 #EXTINF:-1 tvg-name="Zaytoun Space TV" group-title="Kurdish Local",Zaytoun Space TV
@@ -251,28 +233,24 @@ http://afarintv2.flashmediacast.com:1935/afarinTV/d1/livestream/HawezHD.m3u8
 -------------------------
 Kurdish Kids
 -------------------------
-#EXTINF:-1 tvg-name="Afarin TV" group-title="Kurdish Kids",Afarin TV
+#EXTINF:-1 tvg-name="Afarin TV." group-title="Kurdish Kids",Afarin TV.
 http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Afarin Baxcha TV" group-title="Kurdish Kids",Afarin Baxcha TV
+#EXTINF:-1 tvg-name="Afarin Baxcha TV." group-title="Kurdish Kids",Afarin Baxcha TV.
 http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Afarin Radio" group-title="Kurdish Kids",Afarin Radio
+#EXTINF:-1 tvg-name="Afarin Radio." group-title="Kurdish Kids",Afarin Radio.
 http://afarintv2.flashmediacast.com:1935/afarinTV/d1/livestream/HawezHD.m3u8
-#EXTINF:-1 tvg-name="One Kids" group-title="Kurdish Kids",One Kids
+#EXTINF:-1 tvg-name="One Kids." group-title="Kurdish Kids",One Kids.
 http://217.76.62.187/hls/kids.m3u8
-#EXTINF:-1 tvg-name="BASK Kids HD" group-title="Kurdish Kids",BASK Kids HD
-http://217.76.62.187/hls/kids.m3u8
-#EXTINF:-1 tvg-name="KIDCO" group-title="Kurdish Kids",KIDCO
+#EXTINF:-1 tvg-name="KIDCO." group-title="Kurdish Kids",KIDCO.
 http://avrstream.com:1935/live/kidcohd/playlist.m3u8
-#EXTINF:-1 tvg-name="MMN KIDS" group-title="Kurdish Kids",MMN KIDS
+#EXTINF:-1 tvg-name="MMN KIDS." group-title="Kurdish Kids",MMN KIDS.
 http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
-#EXTINF:-1 tvg-name="SPI Kids 4K" group-title="Kurdish Kids",SPI Kids 4K
+#EXTINF:-1 tvg-name="SPI Kids 4K." group-title="Kurdish Kids",SPI Kids 4K.
 https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
-#EXTINF:-1 tvg-name="Zarok TV Sorani" group-title="Kurdish Kids",Zarok TV Sorani
+#EXTINF:-1 tvg-name="Zarok TV Sorani." group-title="Kurdish Kids",Zarok TV Sorani.
 https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
-#EXTINF:-1 tvg-name="Zarok TV Kurmanci" group-title="Kurdish Kids",Zarok TV Kurmanci
+#EXTINF:-1 tvg-name="Zarok TV Kurmanci." group-title="Kurdish Kids",Zarok TV Kurmanci.
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
-#EXTINF:-1 tvg-name="NRT 3" group-title="Kurdish Kids",NRT 3
-http://109.71.252.138/Nrt3/video.m3u8?token=yusfstaore@asdasdfadaaafffs
 --------------------------
 --------------------------
 Kurdish Sport
@@ -289,8 +267,6 @@ Kurdish Radio
 --------------------------
 #EXTINF:-1 tvg-name="Radyo YEK" group-title="Kurdish Radio",Radyo YEK
 https://listen.radioking.com/radio/119251/stream/158701
-#EXTINF:-1 tvg-name="Dengê Welat" group-title="Kurdish Radio",Dengê Welat
-https://dengegel-rojavaradio.radioca.st/stream
 #EXTINF:-1 tvg-name="ARTA Radio" group-title="Kurdish Radio",ARTA Radio
 https://hlspackager.akamaized.net/live/DB/ARTA_RADIO/HLS/ARTA_RADIO.m3u8
 #EXTINF:-1 tvg-name="Radyo Veng" group-title="Kurdish Radio",Radyo Veng
@@ -300,7 +276,7 @@ https://stream-161.zeno.fm/xzzu8kynq2zuv?zs=w04YDGOKToyGJYh-k6AlCw
 #EXTINF:-1 tvg-name="Radyo Rojava" group-title="Kurdish Radio",Radyo Rojava
 https://stream-151.zeno.fm/h6mn2c8ha8zuv?zs=ypMmYTDWSUCBQY2UZkzE2A
 #EXTINF:-1 tvg-name="Radyo Dirbêsî" group-title="Kurdish Radio",Radyo Dirbêsî
-http://5.9.71.122:8267/stream;
+http://5.9.71.122:8267/stream
 #EXTINF:-1 tvg-name="Radyo Azadî" group-title="Kurdish Radio",Radyo Azadî
 https://amed.ozelip.com/8040/stream
 #EXTINF:-1 tvg-name="Radyo Arîn" group-title="Kurdish Radio",Radyo Arîn
@@ -321,7 +297,4 @@ https://dengezelalradyo.ozelip.com:8546/stream
 https://ssl22.radyotelekom.com:8224/stream
 --------------------------
 Kurdsih VIP
---------------------------
---------------------------
---------------------------
 --------------------------
