@@ -14,9 +14,9 @@ https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:-1 tvg-name="Channel 8" group-title="Kurdish News", Channel 8 News
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
 #EXTINF:-1 tvg-name="Rudaw" group-title="Kurdish News", Rudaw
-https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 tvg-name="Gali Kurdistan" group-title="Kurdish News", Gali Kurdistan
-https://live.host247.net/gk/gksat/chunklist_w950982176.m3u8
+https://live.host247.net/gk/gksat/chunklist_w73084576.m3u8
 --------------------------
 --------------------------
 Kurdish Sattelite
