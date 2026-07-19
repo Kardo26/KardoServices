@@ -385,4 +385,8 @@ https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-name="MR Bean 2" group-title="Kids World", MR Bean 2
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 ---------------------------------
+---------------------------------
+Wordls Sport
 --------------------------------
+#EXTINF:-1  group-title="Sport World", Bein Sport
+https://connect-live.bein.com/besmenasports/index.mpd?hdnts=data=env=beinmena-production,customerID=0,clientID=256,jwt=eyJhbGciOiJIUzI1NiJ9.eyJpZF9jaGFubmVsIjo3NCwiYXBpcCI6IjE2OS4yMjQuNzAuMTI3IiwiaWRfaWRlbnRpdHkiOjAsImlkX2RldmljZSI6Im9wZW5hcGkiLCJpZF9jdXN0b21lciI6MCwiaWRfc3RyZWFtIjoiYTUwYzk0ZGQtZDgzZi00YjNiLTg5OGYtMDI0NjkzZThlNzdiIn0.Z79W4xov_LJ1SjZzdE9Fwvu6qyeL9MisU0uS6vGQNeU~st=1784483412~exp=1784526612~acl=/besmenasports/*~hmac=b366a611bad0537a0a9acd42398ebe7a63f6fd27b678f06220022e20c9931095&?idChannel=74&playerName=bitmovin-web&playerVersion=10.0&checksum=IxdUGgtzleC%2BdcaNMmZeOClGauYnuJdsKg5uOwtm3JE%3D
