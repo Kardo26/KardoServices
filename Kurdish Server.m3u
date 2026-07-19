@@ -103,16 +103,32 @@ https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-name="4 Kurd TV" group-title="Kurdish Sat",4 Kurd TV
 https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Zagros 24" group-title="Kurdish Sat",Zagros 24
+https://hlspackager.akamaized.net/live/DB/ZAGROS_24/HLS/ZAGROS_24.m3u8
+#EXTINF:-1 tvg-name="Media Haber" group-title="Kurdish Sat",Media Haber
+https://hlspackager.akamaized.net/live/DB/MEDYA_HABER/HLS/MEDYA_HABER.m3u8
 --------------------------
 --------------------------
 Kurdish Local
 --------------------------
 #EXTINF:-1 tvg-name="Soran Entertainment" group-title="Kurdish Local",Soran Entertainment
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
+#EXTINF:-1 tvg-name="KHAK TV" group-title="Kurdish Local",KHAK TV
+http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
+#EXTINF:-1 tvg-name="Biner TV" group-title="Kurdish Local",Biner tv
+https://cdn.karwan.tv/biner-zaxo/index.m3u8
+#EXTINF:-1 tvg-name="Halabja TV" group-title="Kurdish Local",Halabja tv
+http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Shna TV" group-title="Kurdish Local",Shna TV
 http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Znar Kids" group-title="Kurdish Local",Znar Kids.
+https://183.bozztv.com/giatv/giatv-znarkids/znarkids/playlist.m3u8
 #EXTINF:-1 tvg-name="One Kids" group-title="Kurdish Local",One Kids
 http://217.76.62.187/hls/kids.m3u8
+#EXTINF:-1 tvg-name="Hormzyar" group-title="Kurdish Local",Hormzyar
+http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
+#EXTINF:-1 tvg-name="Ranya City" group-title="Kurdish Local",Ranya City
+https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
 #EXTINF:-1 tvg-name="Dekan Quran Alkareem" group-title="Kurdish Local",Dekan Quran Alkareem
 https://live20.bozztv.com/giatv/giatv-dekanquran/dekanquran/chunks.m3u8
 #EXTINF:-1 tvg-name="RED TV" group-title="Kurdish Local",RED TV
@@ -137,6 +153,10 @@ https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8
 https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Animal Box" group-title="Kurdish Local",Animal Box
 https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
+#EXTINF:-1 tvg-name="Walla" group-title="Kurdish Local",Walla
+https://live20.bozztv.com/giatv/giatv-wallatv88/wallatv88/chunks.m3u8
+#EXTINF:-1 tvg-name="S TV One" group-title="Kurdish Local",S tv One
+https://live20.bozztv.com/giatv/giatv-stv/stvone/chunks.m3u8
 #EXTINF:-1 tvg-name="AVAR TV" group-title="Kurdish Local",AVAR TV
 https://avr.host247.net/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-name="ALA TV" group-title="Kurdish Local",ALA TV
@@ -151,6 +171,10 @@ http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
 http://baskhd2.ddns.net:1935/live/basktv/playlist.m3u8
 #EXTINF:-1 tvg-name="BASK PLUS HD" group-title="Kurdish Local",BASK PLUS HD
 http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
+#EXTINF:-1 tvg-name="Kurd 7" group-title="Kurdish Local",Kurd 7
+http://avrstream.com:1935/live/Kurd7HD/playlist.m3u8
+#EXTINF:-1 tvg-name="Derin tv" group-title="Kurdish Local", Derin tv
+http://baskhd.ddns.net:40/live/Derin/index.m3u8?checkedby:kurdtv1
 #EXTINF:-1 tvg-name="One Kids" group-title="Kurdish Local",One Kids
 http://217.76.62.187/hls/kids.m3u8
 #EXTINF:-1 tvg-name="Eman TV" group-title="Kurdish Local",Eman TV
@@ -229,6 +253,24 @@ http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Afarin Radio" group-title="Kurdish Local",Afarin Radio
 http://afarintv2.flashmediacast.com:1935/afarinTV/d1/livestream/HawezHD.m3u8
+#EXTINF:-1 tvg-name="J media" group-title="Kurdish Local",J media
+http://jegrmediahussen.com:8088/JMedia/index.m3u8
+#EXTINF:-1 tvg-name="Garyan media" group-title="Kurdish Local",Garyan media
+https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
+#EXTINF:-1 tvg-name="Peshang" group-title="Kurdish Local",Peshang
+https://stream.forcaroo.com/stream/hls/desktop.m3u8
+#EXTINF:-1 tvg-name="Ashti quarn" group-title="Kurdish Local", Ashti quarn
+http://avrstream.com:1935/live/AshtiTV/playlist.m3u8
+#EXTINF:-1 tvg-name="IMK quarn" group-title="Kurdish Local", IMK quarn
+http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
+#EXTINF:-1 tvg-name="SADA" group-title="Kurdish Local", SADA
+http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Shar tv" group-title="Kurdish Local",Shar tv
+http://avrstream.com:1935/live/SHARTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Dunya tv" group-title="Kurdish Local",Dunya tv
+https://live20.bozztv.com/giatv/giatv-DniaTV/DniaTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Sunnat tv" group-title="Kurdish Local",Radio Sunnat
+https://183.bozztv.com/giatv/giatv-rsunnat/rsunnat/playlist.m3u8
 --------------------------
 -------------------------
 Kurdish Kids
@@ -245,6 +287,8 @@ http://217.76.62.187/hls/kids.m3u8
 http://avrstream.com:1935/live/kidcohd/playlist.m3u8
 #EXTINF:-1 tvg-name="MMN KIDS." group-title="Kurdish Kids",MMN KIDS.
 http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
+#EXTINF:-1 tvg-name="Znar Kids" group-title="Kurdish Local",Znar Kids
+https://183.bozztv.com/giatv/giatv-znarkids/znarkids/playlist.m3u8
 #EXTINF:-1 tvg-name="SPI Kids 4K." group-title="Kurdish Kids",SPI Kids 4K.
 https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 #EXTINF:-1 tvg-name="Zarok TV Sorani." group-title="Kurdish Kids",Zarok TV Sorani.
@@ -261,6 +305,8 @@ https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 #EXTINF:-1 tvg-name="Zaytoun Sport TV." group-title="Kurdish Sport",Zaytoun Sport TV.
 https://barham.short.gy/zvgsport.m3u8
+#EXTINF:-1 tvg-name="Ayas Sport" group-title="Kurdish Sport",Ayas Sport
+https://ayassport.776740.ir.cdn.ir/hls2/sport.m3u8
 --------------------------
 --------------------------
 Kurdish Radio
@@ -390,3 +436,358 @@ Wordls Sport
 --------------------------------
 #EXTINF:-1  group-title="Sport World", Bein Sport
 https://connect-live.bein.com/besmenasports/index.mpd?hdnts=data=env=beinmena-production,customerID=0,clientID=256,jwt=eyJhbGciOiJIUzI1NiJ9.eyJpZF9jaGFubmVsIjo3NCwiYXBpcCI6IjE2OS4yMjQuNzAuMTI3IiwiaWRfaWRlbnRpdHkiOjAsImlkX2RldmljZSI6Im9wZW5hcGkiLCJpZF9jdXN0b21lciI6MCwiaWRfc3RyZWFtIjoiYTUwYzk0ZGQtZDgzZi00YjNiLTg5OGYtMDI0NjkzZThlNzdiIn0.Z79W4xov_LJ1SjZzdE9Fwvu6qyeL9MisU0uS6vGQNeU~st=1784483412~exp=1784526612~acl=/besmenasports/*~hmac=b366a611bad0537a0a9acd42398ebe7a63f6fd27b678f06220022e20c9931095&?idChannel=74&playerName=bitmovin-web&playerVersion=10.0&checksum=IxdUGgtzleC%2BdcaNMmZeOClGauYnuJdsKg5uOwtm3JE%3D
+#EXTINF:-1  group-title="Sport World", Sport 1
+https://cp11.adabmedia.com/hls2/sport.m3u8
+#EXTINF:-1  group-title="Sport World", Persian 2 Sport 
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1  group-title="Sport World", Persian 3 Sport 
+https://pepsi3.abntv.live/hls/psp3.m3u8
+#EXTINF:-1  group-title="Sport World", Persian 4 Sport
+https://pepsi4.abntv.live/hls/psp4.m3u8
+#EXTINF:-1  group-title="Sport World", Bein Sport Extra esp
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+-------------------------------
+-------------------------------
+Ramazan Shulur Quran
+-----------------------------
+#EXTM3U
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفاتحة
+https://server6.mp3quran.net/shakoor/001.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة البقرة
+https://server6.mp3quran.net/shakoor/002.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة آل عمران
+https://server6.mp3quran.net/shakoor/003.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النساء
+https://server6.mp3quran.net/shakoor/004.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المائدة
+https://server6.mp3quran.net/shakoor/005.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأنعام
+https://server6.mp3quran.net/shakoor/006.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأعراف
+https://server6.mp3quran.net/shakoor/007.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأنفال
+https://server6.mp3quran.net/shakoor/008.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التوبة
+https://server6.mp3quran.net/shakoor/009.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة يونس
+https://server6.mp3quran.net/shakoor/010.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة هود
+https://server6.mp3quran.net/shakoor/011.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة يوسف
+https://server6.mp3quran.net/shakoor/012.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الرعد
+https://server6.mp3quran.net/shakoor/013.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة إبراهيم
+https://server6.mp3quran.net/shakoor/014.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحجر
+https://server6.mp3quran.net/shakoor/015.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النحل
+https://server6.mp3quran.net/shakoor/016.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الإسراء
+https://server6.mp3quran.net/shakoor/017.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الكهف
+https://server6.mp3quran.net/shakoor/018.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة مريم
+https://server6.mp3quran.net/shakoor/019.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة طه
+https://server6.mp3quran.net/shakoor/020.mp3
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأنبياء
+https://server6.mp3quran.net/shakoor/021.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحج
+https://server6.mp3quran.net/shakoor/022.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المؤمنون
+https://server6.mp3quran.net/shakoor/023.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النور
+https://server6.mp3quran.net/shakoor/024.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفرقان
+https://server6.mp3quran.net/shakoor/025.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الشعراء
+https://server6.mp3quran.net/shakoor/026.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النمل
+https://server6.mp3quran.net/shakoor/027.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القصص
+https://server6.mp3quran.net/shakoor/028.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة العنكبوت
+https://server6.mp3quran.net/shakoor/029.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الروم
+https://server6.mp3quran.net/shakoor/030.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة لقمان
+https://server6.mp3quran.net/shakoor/031.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة السجدة
+https://server6.mp3quran.net/shakoor/032.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأحزاب
+https://server6.mp3quran.net/shakoor/033.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة سبأ
+https://server6.mp3quran.net/shakoor/034.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة فاطر
+https://server6.mp3quran.net/shakoor/035.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة يس
+https://server6.mp3quran.net/shakoor/036.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الصافات
+https://server6.mp3quran.net/shakoor/037.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة ص
+https://server6.mp3quran.net/shakoor/038.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الزمر
+https://server6.mp3quran.net/shakoor/039.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة غافر
+https://server6.mp3quran.net/shakoor/040.mp3
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة فصلت
+https://server6.mp3quran.net/shakoor/041.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الشورى
+https://server6.mp3quran.net/shakoor/042.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الزخرف
+https://server6.mp3quran.net/shakoor/043.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الدخان
+https://server6.mp3quran.net/shakoor/044.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الجاثية
+https://server6.mp3quran.net/shakoor/045.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأحقاف
+https://server6.mp3quran.net/shakoor/046.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة محمد
+https://server6.mp3quran.net/shakoor/047.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفتح
+https://server6.mp3quran.net/shakoor/048.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحجرات
+https://server6.mp3quran.net/shakoor/049.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة ق
+https://server6.mp3quran.net/shakoor/050.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الذاريات
+https://server6.mp3quran.net/shakoor/051.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الطور
+https://server6.mp3quran.net/shakoor/052.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النجم
+https://server6.mp3quran.net/shakoor/053.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القمر
+https://server6.mp3quran.net/shakoor/054.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الرحمن
+https://server6.mp3quran.net/shakoor/055.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الواقعة
+https://server6.mp3quran.net/shakoor/056.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحديد
+https://server6.mp3quran.net/shakoor/057.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المجادلة
+https://server6.mp3quran.net/shakoor/058.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحشر
+https://server6.mp3quran.net/shakoor/059.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الممتحنة
+https://server6.mp3quran.net/shakoor/060.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الصف
+https://server6.mp3quran.net/shakoor/061.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الجمعة
+https://server6.mp3quran.net/shakoor/062.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المنافقون
+https://server6.mp3quran.net/shakoor/063.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التغابن
+https://server6.mp3quran.net/shakoor/064.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الطلاق
+https://server6.mp3quran.net/shakoor/065.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التحريم
+https://server6.mp3quran.net/shakoor/066.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الملك
+https://server6.mp3quran.net/shakoor/067.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القلم
+https://server6.mp3quran.net/shakoor/068.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحاقة
+https://server6.mp3quran.net/shakoor/069.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المعارج
+https://server6.mp3quran.net/shakoor/070.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة نوح
+https://server6.mp3quran.net/shakoor/071.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الجن
+https://server6.mp3quran.net/shakoor/072.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المزمل
+https://server6.mp3quran.net/shakoor/073.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المدثر
+https://server6.mp3quran.net/shakoor/074.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القيامة
+https://server6.mp3quran.net/shakoor/075.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الإنسان
+https://server6.mp3quran.net/shakoor/076.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المرسلات
+https://server6.mp3quran.net/shakoor/077.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النبأ
+https://server6.mp3quran.net/shakoor/078.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النازعات
+https://server6.mp3quran.net/shakoor/079.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة عبس
+https://server6.mp3quran.net/shakoor/080.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التكوير
+https://server6.mp3quran.net/shakoor/081.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الانفطار
+https://server6.mp3quran.net/shakoor/082.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المطففين
+https://server6.mp3quran.net/shakoor/083.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الانشقاق
+https://server6.mp3quran.net/shakoor/084.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة البروج
+https://server6.mp3quran.net/shakoor/085.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الطارق
+https://server6.mp3quran.net/shakoor/086.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأعلى
+https://server6.mp3quran.net/shakoor/087.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الغاشية
+https://server6.mp3quran.net/shakoor/088.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفجر
+https://server6.mp3quran.net/shakoor/089.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة البلد
+https://server6.mp3quran.net/shakoor/090.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الشمس
+https://server6.mp3quran.net/shakoor/091.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الليل
+https://server6.mp3quran.net/shakoor/092.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الضحى
+https://server6.mp3quran.net/shakoor/093.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الشرح
+https://server6.mp3quran.net/shakoor/094.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التين
+https://server6.mp3quran.net/shakoor/095.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة العلق
+https://server6.mp3quran.net/shakoor/096.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القدر
+https://server6.mp3quran.net/shakoor/097.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة البينة
+https://server6.mp3quran.net/shakoor/098.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الزلزلة
+https://server6.mp3quran.net/shakoor/099.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة العاديات
+https://server6.mp3quran.net/shakoor/100.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القارعة
+https://server6.mp3quran.net/shakoor/101.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التكاثر
+https://server6.mp3quran.net/shakoor/102.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة العصر
+https://server6.mp3quran.net/shakoor/103.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الهمزة
+https://server6.mp3quran.net/shakoor/104.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفيل
+https://server6.mp3quran.net/shakoor/105.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة قريش
+https://server6.mp3quran.net/shakoor/106.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الماعون
+https://server6.mp3quran.net/shakoor/107.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الكوثر
+https://server6.mp3quran.net/shakoor/108.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الكافرون
+https://server6.mp3quran.net/shakoor/109.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النصر
+https://server6.mp3quran.net/shakoor/110.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المسد
+https://server6.mp3quran.net/shakoor/111.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الإخلاص
+https://server6.mp3quran.net/shakoor/112.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفلق
+https://server6.mp3quran.net/shakoor/113.mp3
+
+#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الناس
+https://server6.mp3quran.net/shakoor/114.mp3
