@@ -271,6 +271,8 @@ http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-DniaTV/DniaTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Sunnat tv" group-title="Kurdish Local",Radio Sunnat
 https://183.bozztv.com/giatv/giatv-rsunnat/rsunnat/playlist.m3u8
+#EXTINF:-1 tvg-name="Znar Kids" group-title="Kurdish Local",Znar Kids
+https://183.bozztv.com/giatv/giatv-znarkids/znarkids/playlist.m3u8
 --------------------------
 -------------------------
 Kurdish Kids
@@ -287,7 +289,7 @@ http://217.76.62.187/hls/kids.m3u8
 http://avrstream.com:1935/live/kidcohd/playlist.m3u8
 #EXTINF:-1 tvg-name="MMN KIDS." group-title="Kurdish Kids",MMN KIDS.
 http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
-#EXTINF:-1 tvg-name="Znar Kids" group-title="Kurdish Local",Znar Kids
+#EXTINF:-1 tvg-name="Znar Kids" group-title="Kurdish Kids",Znar Kids
 https://183.bozztv.com/giatv/giatv-znarkids/znarkids/playlist.m3u8
 #EXTINF:-1 tvg-name="SPI Kids 4K." group-title="Kurdish Kids",SPI Kids 4K.
 https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
