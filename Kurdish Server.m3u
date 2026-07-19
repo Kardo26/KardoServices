@@ -448,6 +448,18 @@ https://pepsi3.abntv.live/hls/psp3.m3u8
 https://pepsi4.abntv.live/hls/psp4.m3u8
 #EXTINF:-1  group-title="Sport World",Bein Sport Extra esp.
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="Alkass1.qa" tvg-name="Alkass 1" group-title="Sport World",Alkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1 tvg-id="Alkass2.qa" tvg-name="Alkass 2" group-title="Sport World",Alkass 2
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:-1 tvg-id="Alkass3.qa" tvg-name="Alkass 3" group-title="Sport World",Alkass 3
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:-1 tvg-id="Alkass4.qa" tvg-name="Alkass 4" group-title="Sport World",Alkass 4
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 tvg-id="Alkass5.qa" tvg-name="Alkass 5" group-title="Sport World",Alkass 5
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 tvg-id="Alkass6.qa" tvg-name="Alkass 6" group-title="Sport World",Alkass 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 -------------------------------
 -------------------------------
 Ramazan Shulur Quran
@@ -793,3 +805,209 @@ https://server6.mp3quran.net/shakoor/113.mp3
 
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الناس
 https://server6.mp3quran.net/shakoor/114.mp3
+------------------------
+------------------------
+Waleed Ibrahim Quarn Kareem
+-----------------------
+#EXTINF:0,سورة الفاتحة
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/001.mp3
+
+#EXTINF:0,سورة يوسف
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/012.mp3
+
+#EXTINF:0,سورة الإسراء
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/017.mp3
+
+#EXTINF:0,سورة لقمان
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/031.mp3
+
+#EXTINF:0,سورة الزمر
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/039.mp3
+
+#EXTINF:0,سورة فصلت
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/041.mp3
+
+#EXTINF:0,سورة الجاثية
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/045.mp3
+
+#EXTINF:0,سورة الفتح
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/048.mp3
+
+#EXTINF:0,سورة الحجرات
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/049.mp3
+
+#EXTINF:0,سورة ق
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/050.mp3
+
+#EXTINF:0,سورة الذاريات
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/051.mp3
+
+#EXTINF:0,سورة الطور
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/052.mp3
+
+#EXTINF:0,سورة النجم
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/053.mp3
+
+#EXTINF:0,سورة القمر
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/054.mp3
+
+#EXTINF:0,سورة النبأ
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/078.mp3
+
+#EXTINF:0,سورة النازعات
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/079.mp3
+
+#EXTINF:0,سورة عبس
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/080.mp3
+
+#EXTINF:0,سورة التكوير
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/081.mp3
+
+#EXTINF:0,سورة الانفطار
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/082.mp3
+
+#EXTINF:0,سورة المطففين
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/083.mp3
+
+#EXTINF:0,سورة الانشقاق
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/084.mp3
+
+#EXTINF:0,سورة البروج
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/085.mp3
+
+#EXTINF:0,سورة الطارق
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/086.mp3
+
+#EXTINF:0,سورة الأعلى
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/087.mp3
+
+#EXTINF:0,سورة الغاشية
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/088.mp3
+
+#EXTINF:0,سورة الفجر
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/089.mp3
+
+#EXTINF:0,سورة البلد
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/090.mp3
+
+#EXTINF:0,سورة الشمس
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/091.mp3
+
+#EXTINF:0,سورة الليل
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/092.mp3
+
+#EXTINF:0,سورة الضحى
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/093.mp3
+#EXTINF:0,سورة الشرح
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/094.mp3
+
+#EXTINF:0,سورة التين
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/095.mp3
+
+#EXTINF:0,سورة العلق
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/096.mp3
+
+#EXTINF:0,سورة القدر
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/097.mp3
+
+#EXTINF:0,سورة البينة
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/098.mp3
+
+#EXTINF:0,سورة الزلزلة
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/099.mp3
+
+#EXTINF:0,سورة العاديات
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/100.mp3
+
+#EXTINF:0,سورة القارعة
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/101.mp3
+
+#EXTINF:0,سورة التكاثر
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/102.mp3
+
+#EXTINF:0,سورة العصر
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/103.mp3
+
+#EXTINF:0,سورة الهمزة
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/104.mp3
+
+#EXTINF:0,سورة الفيل
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/105.mp3
+
+#EXTINF:0,سورة قريش
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/106.mp3
+
+#EXTINF:0,سورة الماعون
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/107.mp3
+
+#EXTINF:0,سورة الكوثر
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/108.mp3
+
+#EXTINF:0,سورة الكافرون
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/109.mp3
+
+#EXTINF:0,سورة النصر
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/110.mp3
+
+#EXTINF:0,سورة المسد
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/111.mp3
+
+#EXTINF:0,سورة الإخلاص
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/112.mp3
+
+#EXTINF:0,سورة الفلق
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/113.mp3
+
+#EXTINF:0,سورة الناس
+#EXTGRP:Waleed Ibrahim Quran Kareem
+https://server8.mp3quran.net/dlami/114.mp3
