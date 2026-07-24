@@ -17,6 +17,8 @@ https://live.channel8.com/Channel8-Kurdish/index.m3u8
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 tvg-name="Gali Kurdistan" group-title="Kurdish News",Gali Kurdistan.
 https://live.host247.net/gk/gksat/chunklist_w950982176.m3u8
+#EXTINF:-1 tvg-name="K24" group-title="Kurdish News",K24.
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
 #EXTINF:-1 tvg-name="MMN NEWS" group-title="Kurdish News",MMN NEWS
 http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
 --------------------------
@@ -33,6 +35,8 @@ https://app-live.org/live/3268334b/index.m3u8
 https://ava2.store/upload/ava.m3u8
 #EXTINF:-1 tvg-name="NRT" group-title="Kurdish Sat",NRT News
 https://barham.short.gy/nrt.news.m3u8
+#EXTINF:-1 tvg-name="K24" group-title="Kurdish News",K24
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
 #EXTINF:-1 tvg-name="Kurdsat News" group-title="Kurdish Sat",Kurdsat News
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:-1 tvg-name="Channel 8" group-title="Kurdish Sat", Channel 8 News
@@ -41,6 +45,8 @@ https://live.channel8.com/Channel8-Kurdish/index.m3u8
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 tvg-name="Iraqia Kurdish" group-title="Kurdish Sat", Iraqia Kurdish
 https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
+#EXTINF:-1 tvg-name="Kurdistan TV" group-title="Kurdish Sat", Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1867501589_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-name="AMOZHGARY Academy TV" group-title="Kurdish Sat",AMOZHGARY Academy TV
 https://app-live.org/live/a267c1b3/index.m3u8
 #EXTINF:-1 tvg-name="Gali Kurdistan" group-title="Kurdish Sat",Gali Kurdistan
