@@ -115,6 +115,8 @@ https://4kuhls.persiana.live/hls/stream.m3u8
 https://hlspackager.akamaized.net/live/DB/ZAGROS_24/HLS/ZAGROS_24.m3u8
 #EXTINF:-1 tvg-name="Media Haber" group-title="Kurdish Sat",Media Haber
 https://hlspackager.akamaized.net/live/DB/MEDYA_HABER/HLS/MEDYA_HABER.m3u8
+#EXTINF:-1 tvg-name="VOA Dangi America" group-title="Kurdish Sat",VOA Dangi America
+https://voa-ingest.akamaized.net/hls/live/2033781/tvmc02/playlist_1080.m3u8
 --------------------------
 --------------------------
 Kurdish Local
