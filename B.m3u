@@ -289,6 +289,8 @@ https://183.bozztv.com/giatv/giatv-znarkids/znarkids/playlist.m3u8
 https://183.bozztv.com/giatv/giatv-zhintv/zhintv/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Kurdi" group-title="Kurdish Local",Radio Kurdi
 https://183.bozztv.com/giatv/giatv-radiokurdi/radiokurdi/playlist.m3u8
+#EXTINF:-1 tvg-name="Walla Quran" group-title="Kurdish Local" , Walla Quran
+http://cdn.karwan.tv/WALAQURAN/index.m3u8
 --------------------------
 --------------------------
 Kurdish Kids
