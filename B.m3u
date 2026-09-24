@@ -7,8 +7,6 @@ Kurdsih News
 https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
 #EXTINF:-1  tvg-name="AVA TV"  group-title="Kurdish News",AVA News.
 https://ava2.store/upload/ava.m3u8
-#EXTINF:-1 tvg-name="NRT" group-title="Kurdish News",NRT.  
-https://barham.short.gy/nrt.news.m3u8
 #EXTINF:-1 tvg-name="Kurdsat News" group-title="Kurdish News",Kurdsat News.
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:-1 tvg-name="Channel 8" group-title="Kurdish News", Channel 8 News.
@@ -19,8 +17,6 @@ https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 https://live.host247.net/gk/gksat/chunklist_w950982176.m3u8
 #EXTINF:-1 tvg-name="K24" group-title="Kurdish News",K24.
 https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
-#EXTINF:-1 tvg-name="MMN NEWS" group-title="Kurdish News",MMN NEWS
-http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
 --------------------------
 --------------------------
 Kurdish Sattelite
@@ -33,8 +29,6 @@ https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
 https://app-live.org/live/3268334b/index.m3u8
 #EXTINF:-1 tvg-name="AVA TV" group-title="Kurdish Sat",AVA News
 https://ava2.store/upload/ava.m3u8
-#EXTINF:-1 tvg-name="NRT" group-title="Kurdish Sat",NRT News
-https://barham.short.gy/nrt.news.m3u8
 #EXTINF:-1 tvg-name="K24" group-title="Kurdish News",K24
 https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
 #EXTINF:-1 tvg-name="Kurdsat News" group-title="Kurdish Sat",Kurdsat News
@@ -66,28 +60,16 @@ https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-name="Kurdistan TV" group-title="Kurdish Sat",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1791118443_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-name="K24 FHD" group-title="Kurdish Sat",K24 FHD
-https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
 #EXTINF:-1 tvg-name="KURDSAT" group-title="Kurdish Sat",KURDSAT
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
-#EXTINF:-1 tvg-name="KURDMAX سۆرانی" group-title="Kurdish Sat",KURDMAX سۆرانی
-https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w1862836536.m3u8
-#EXTINF:-1 tvg-name="KURDMAX کرمانجی" group-title="Kurdish Sat",KURDMAX کرمانجی
-https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/chunklist_w600589281.m3u8
-#EXTINF:-1 tvg-name="KURDMAX SHOW سۆرانی" group-title="Kurdish Sat",KURDMAX SHOW سۆرانی
-https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
-#EXTINF:-1 tvg-name="KURDMAX SHOW کرمانجی" group-title="Kurdish Sat",KURDMAX SHOW کرمانجی
-https://6476e46b58f91.streamlock.net/liveTrans/SHOWB234/playlist.m3u8
-#EXTINF:-1 tvg-name="Kirkuk TV" group-title="Kurdish Sat",Kirkuk TV
-https://live.kirkuklive.live/hls/stream/index.m3u8
 #EXTINF:-1 tvg-name="Komala" group-title="Kurdish Sat",Komala
 https://komhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Kurd Channel" group-title="Kurdish Sat",Kurd Channel
 https://kurdchhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Kurdmax Music" group-title="Kurdish Sat",Kurdmax Music
-https://6476e46b58f91.streamlock.net/music/MUSIC2402/chunklist_w931941887.m3u8
 #EXTINF:-1 tvg-name="Med Muzik TV" group-title="Kurdish Sat",Med Muzik TV
 https://hlspackager.akamaized.net/live/DB/MED_MUSIC/HLS/MED_MUSIC.m3u8
-#EXTINF:-1 tvg-name="Nûçe TV" group-title="Kurdish Sat",Nûçe TV
+#EXTINF:-1 tvg-name="Nûçe TV" group-title="Kurdish Sat",Nûçe TV m
 https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
 #EXTINF:-1 tvg-name="Rehber TV" group-title="Kurdish Sat",Rehber TV
 https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
@@ -99,8 +81,6 @@ https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
 https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1 tvg-name="Sterk TV" group-title="Kurdish Sat",Sterk TV
 https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
-#EXTINF:-1 tvg-name="Sümbül Tv" group-title="Kurdish Sat",Sümbül Tv
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/sumbultv.m3u8
 #EXTINF:-1 tvg-name="Waar TV" group-title="Kurdish Sat",Waar TV
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 #EXTINF:-1 tvg-name="Welat TV" group-title="Kurdish Sat",Welat TV
@@ -119,31 +99,6 @@ https://hlspackager.akamaized.net/live/DB/MEDYA_HABER/HLS/MEDYA_HABER.m3u8
 https://voa-ingest.akamaized.net/hls/live/2033781/tvmc02/playlist_1080.m3u8
 #EXTINF:-1 tvg-name="Komala" group-title="Kurdish Sat",Komala
 https://komhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NRT3 HD" tvg-logo="https://i.ibb.co/zrKf2fs/nrt-3.jpg" group-title="Kurdish Sat",NRT3 HD
-http://185.95.184.33:25461/live/120541/20364/194.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kurdmax Papula" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN05xWeCVN_ZsFhW9ByNHPRB1TrPeOY_z02g&s" group-title="Kurdish Sat",Kurdmax Papula
-http://185.95.184.33:25461/live/120541/20364/197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kurdmax Music" tvg-logo="https://i.ibb.co/3hxXMrB/kurdmax-music.jpg" group-title="Kurdish Sat",Kurdmax Music
-http://185.95.184.33:25461/live/120541/20364/97.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Payam HD" tvg-logo="https://i.ibb.co/RjqN4wG/payam.jpg" group-title="Kurdish Sat",Payam HD
-http://185.95.184.33:25461/live/120541/20364/100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Speda HD" tvg-logo="https://i.ibb.co/pQCJPnx/speda.png" group-title="Kurdish Sat",Speda HD
-http://185.95.184.33:25461/live/120541/20364/103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jamawar HD" tvg-logo="https://i.ibb.co/0MkbHpr/Jamawar.jpg" group-title="Kurdish Sat",Jamawar HD
-http://185.95.184.33:25461/live/120541/20364/108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kurdmax Show" tvg-logo="https://i.ibb.co/tsgMs8F/Kurdmax-show.png" group-title="Kurdish Sat",Kurdmax Show
-http://185.95.184.33:25461/live/120541/20364/123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NRT2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1C2LtRi_xyr0lsnhCBn1a1RyfBcHE1L2nQg&s" group-title="Kurdish Sat",NRT2 HD
-http://185.95.184.33:25461/live/120541/20364/152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NRT4 HD" tvg-logo="https://i.ibb.co/19JJMx6/NRT4.jpg" group-title="Kurdish Sat",NRT4 HD
-http://185.95.184.33:25461/live/120541/20364/156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kurdmax HD" tvg-logo="https://i.ibb.co/1XsW05J/kurdmax.png" group-title="Kurdish Sat",Kurdmax HD
-http://185.95.184.33:25461/live/120541/20364/158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sahar Kurdish" tvg-logo="https://i.ibb.co/fDG4P3W/sahar-kurdish.jpg" group-title="Kurdish Sat",Sahar Kurdish
-http://185.95.184.33:25461/live/120541/20364/185.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bangawaz HD" tvg-logo="https://i.ibb.co/xLxmK2C/banhawaz.jpg" group-title="Kurdish Sat",Bangawaz HD
-http://185.95.184.33:25461/live/120541/20364/192.m3u8
-
 --------------------------
 --------------------------
 Kurdish Local
@@ -154,45 +109,18 @@ http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
 http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
 #EXTINF:-1 tvg-name="Biner TV" group-title="Kurdish Local",Biner tv
 https://cdn.karwan.tv/biner-zaxo/index.m3u8
-http://185.95.184.33:25461/live/120541/20364/158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Srusht HD" tvg-logo="https://i.ibb.co/kQTYCJ4/srusht.jpg" group-title="Kurdish Local",Srusht HD
-http://185.95.184.33:25461/live/120541/20364/159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Roj HD" tvg-logo="https://i.ibb.co/RbQByJ3/roj-hd.jpg" group-title="Kurdish Local",Roj HD
-http://185.95.184.33:25461/live/120541/20364/160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Znar HD" tvg-logo="https://i.ibb.co/JvNBr7M/znar.jpg" group-title="Kurdish Local",Znar HD
-http://185.95.184.33:25461/live/120541/20364/161.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ranya HD" tvg-logo="https://i.ibb.co/q5ktWmd/ranya.jpg" group-title="Kurdish Local",Ranya HD
-http://185.95.184.33:25461/live/120541/20364/163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kurdistan Sport HD" tvg-logo="https://i.ibb.co/KNJ1YTX/kurdistan-sport-hd.png" group-title="Kurdish Local",Kurdistan Sport HD
-http://185.95.184.33:25461/live/120541/20364/165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astera Culture" tvg-logo="https://i.ibb.co/HCw98Zd/astera-culture.jpg" group-title="Kurdish Local",Astera Culture
-http://185.95.184.33:25461/live/120541/20364/166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NRT Sport HD" tvg-logo="https://i.ibb.co/7tzjjrZ/NRT-Sport.jpg" group-title="Kurdish Local",NRT Sport HD
-http://185.95.184.33:25461/live/120541/20364/167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Komal HD" tvg-logo="https://i.ibb.co/M90mVf3/Komal-tv.png" group-title="Kurdish Local",Komal HD
-http://185.95.184.33:25461/live/120541/20364/168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="U2 HD" tvg-logo="https://i.ibb.co/5RsRyXh/U2.jpg" group-title="Kurdisj Local",U2 HD
-http://185.95.184.33:25461/live/120541/20364/169.m3u8
 #EXTINF:-1 tvg-name="Halabja TV" group-title="Kurdish Local",Halabja tv
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UTV Hawler HD" tvg-logo="https://i.ibb.co/Q9tcWFD/UTV.png" group-title="Kurdish Local",UTV Hawler HD
-http://185.95.184.33:25461/live/120541/20364/155.m3u8
 #EXTINF:-1 tvg-name="Shna TV" group-title="Kurdish Local",Shna TV
 http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Znar Kids" group-title="Kurdish Local",Znar Kids.
 https://183.bozztv.com/giatv/giatv-znarkids/znarkids/playlist.m3u8
-#EXTINF:-1 tvg-name="One Kids" group-title="Kurdish Local",One Kids
-http://217.76.62.187/hls/kids.m3u8
 #EXTINF:-1 tvg-name="Hormzyar" group-title="Kurdish Local",Hormzyar
 http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
-#EXTINF:-1 tvg-name="Ranya City" group-title="Kurdish Local",Ranya City
-https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
 #EXTINF:-1 tvg-name="Dekan Quran Alkareem" group-title="Kurdish Local",Dekan Quran Alkareem
 https://live20.bozztv.com/giatv/giatv-dekanquran/dekanquran/chunks.m3u8
 #EXTINF:-1 tvg-name="RED TV" group-title="Kurdish Local",RED TV
 http://avrstream.com:1935/live/REDTV/playlist.m3u8
-#EXTINF:-1 tvg-name="iKurd" group-title="Kurdish Local",iKurd
-https://lbgo.bozztv.com/ssh101/ssh101/kurd26/playlist.m3u8
 #EXTINF:-1 tvg-name="Barin Quran" group-title="Kurdish Local",Barin Quran
 http://baskhd.ddns.net:40/live/QURANHDTV/mono.m3u8
 #EXTINF:-1 tvg-name="Barin Family" group-title="Kurdish Local",Barin Family
@@ -205,30 +133,20 @@ https://cdn.karwan.tv/bnar-movies/index.m3u8
 https://cdn.karwan.tv/bnar-family/index.m3u8
 #EXTINF:-1 tvg-name="Barin Movies" group-title="Kurdish Local",Barin Movies
 https://cdn.karwan.tv/barin-movies/index.m3u8
-#EXTINF:-1 tvg-name="Spi Sport" group-title="Kurdish Local",Spi Sport
-https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8
 #EXTINF:-1 tvg-name="Infinity TV" group-title="Kurdish Local",Infinity TV
 https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Animal Box" group-title="Kurdish Local",Animal Box
 https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
 #EXTINF:-1 tvg-name="Walla" group-title="Kurdish Local",Walla
 https://live20.bozztv.com/giatv/giatv-wallatv88/wallatv88/chunks.m3u8
-#EXTINF:-1 tvg-name="S TV One" group-title="Kurdish Local",S tv One
-https://live20.bozztv.com/giatv/giatv-stv/stvone/chunks.m3u8
 #EXTINF:-1 tvg-name="AVAR TV" group-title="Kurdish Local",AVAR TV
 https://avr.host247.net/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-name="ALA TV" group-title="Kurdish Local",ALA TV
 http://avrstream.com:1935/live/ala-hd/playlist.m3u8
 #EXTINF:-1 tvg-name="Baba GurGur TV" group-title="Kurdish Local",Baba GurGur TV
 https://barham.short.gy/BabaGuGurTV.m3u8
-#EXTINF:-1 tvg-name="BNAR TV" group-title="Kurdish Local",BNAR TV
-http://baskhd.ddns.net:40/live/bnar4k/mono.m3u8
-#EXTINF:-1 tvg-name="BNAR Movies TV" group-title="Kurdish Local",BNAR Movies TV
-http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
 #EXTINF:-1 tvg-name="BASK HD" group-title="Kurdish Local",BASK HD
 http://baskhd2.ddns.net:1935/live/basktv/playlist.m3u8
-#EXTINF:-1 tvg-name="BASK PLUS HD" group-title="Kurdish Local",BASK PLUS HD
-http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
 #EXTINF:-1 tvg-name="Kurd 7" group-title="Kurdish Local",Kurd 7
 http://avrstream.com:1935/live/Kurd7HD/playlist.m3u8
 #EXTINF:-1 tvg-name="Derin tv" group-title="Kurdish Local", Derin tv
@@ -241,20 +159,10 @@ https://avr.host247.net/live/emantv/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
 #EXTINF:-1 tvg-name="ESRA TV 2" group-title="Kurdish Local",ESRA TV 2
 https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/chunks.m3u8
-#EXTINF:-1 tvg-name="ESRA Quran HD" group-title="Kurdish Local",ESRA Quran HD
-https://live20.bozztv.com/giatv/giatv-esraquran_kamalblbas/esraquran_kamalblbas/chunks.m3u8
 #EXTINF:-1 tvg-name="Farmoda TV" group-title="Kurdish Local",Farmoda TV
 https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Graryan TV" group-title="Kurdish Local",Graryan TV
 https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
-#EXTINF:-1 tvg-name="HALABJA" group-title="Kurdish Local",HALABJA
-http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
-#EXTINF:-1 tvg-name="IMK HD" group-title="Kurdish Local",IMK HD
-http://imkhd.ddns.net:1935/live/imkhd/HawezHD.m3u8
-#EXTINF:-1 tvg-name="IMK QURAN HD" group-title="Kurdish Local",IMK QURAN HD
-http://avrstream.com:1935/live/IMKQURANHD/HawezHD.m3u8
-#EXTINF:-1 tvg-name="KHAK TV" group-title="Kurdish Local",KHAK TV
-http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
 #EXTINF:-1 tvg-name="KIDCO" group-title="Kurdish Local",KIDCO
 http://avrstream.com:1935/live/kidcohd/playlist.m3u8
 #EXTINF:-1 tvg-name="MMN SHOW" group-title="Kurdish Local",MMN SHOW
@@ -279,16 +187,8 @@ http://bblserver.ddns.net:1935/live/mihrabfm/playlist.m3u8
 http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8?fbclid=IwY2xjawJqPHxleHRuA2FlbQIxMQABHnMOKA67ZkZIJS5ctKSN2-BD8wmcqKIGtVwZIOMvIVLCflJYceBiqt8_myYt_aem_RSxVnDSyf3hVI9TpHIqH9Q
 #EXTINF:-1 tvg-name="Qalam" group-title="Kurdish Local",Qalam
 http://109.71.252.138/Qalamtv/video.m3u8?token=yusfstaore@asdasdfadaaafffs
-#EXTINF:-1 tvg-name="Qalam Ayni" group-title="Kurdish Local",Qalam Ayni
-http://109.71.252.138/Qalamaany/video.m3u8?token=yusfstaore@asdasdfadaaafffs
-#EXTINF:-1 tvg-name="Qalam Geographic" group-title="Kurdish Local",Qalam Geographic
-http://109.71.252.138/Qalamjogryafe/video.m3u8?token=yusfstaore@asdasdfadaaafffs
 #EXTINF:-1 tvg-name="Parwarday Slemany" group-title="Kurdish Local",Parwarday Slemany
 https://183.bozztv.com/giatv/giatv-parwardasuli/parwardasuli/playlist.m3u8
-#EXTINF:-1 tvg-name="Parwarday Hawler" group-title="Kurdish Local",Parwarday Hawler
-https://parwarda.unitedmixmedia.tv/Parwardayi_Hawler/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-name="Parwarday Duhok" group-title="Kurdish Local",Parwarday Duhok
-https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="Shna quran HD" group-title="Kurdish Local",Shna quran HD
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
 #EXTINF:-1 tvg-name="SPI QURAN HD" group-title="Kurdish Local",SPI QURAN HD
@@ -301,8 +201,6 @@ http://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8
 https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
 #EXTINF:-1 tvg-name="Zaytoun TV" group-title="Kurdish Local",Zaytoun TV
 https://barham.short.gy/VPTcoB.m3u8
-#EXTINF:-1 tvg-name="Zaytoun Space TV" group-title="Kurdish Local",Zaytoun Space TV
-https://barham.short.gy/zvgspace.m3u8
 #EXTINF:-1 tvg-name="Zaytoun Sport TV" group-title="Kurdish Local",Zaytoun Sport TV
 https://barham.short.gy/zvgsport.m3u8
 #EXTINF:-1 tvg-name="Afarin TV" group-title="Kurdish Local",Afarin TV
@@ -325,132 +223,12 @@ http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
 http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Shar tv" group-title="Kurdish Local",Shar tv
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
-#EXTINF:-1 tvg-name="Dunya tv" group-title="Kurdish Local",Dunya tv
-https://live20.bozztv.com/giatv/giatv-DniaTV/DniaTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Sunnat tv" group-title="Kurdish Local",Radio Sunnat
 https://183.bozztv.com/giatv/giatv-rsunnat/rsunnat/playlist.m3u8
 #EXTINF:-1 tvg-name="Znar Kids" group-title="Kurdish Local",Znar Kids
 https://183.bozztv.com/giatv/giatv-znarkids/znarkids/playlist.m3u8
-#EXTINF:-1 tvg-name="Zhin Film" group-title="Kurdish Local",Zhin Film
-https://183.bozztv.com/giatv/giatv-zhintv/zhintv/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Kurdi" group-title="Kurdish Local",Radio Kurdi
 https://183.bozztv.com/giatv/giatv-radiokurdi/radiokurdi/playlist.m3u8
-#EXTINF:-1 tvg-name="Walla Quran" group-title="Kurdish Local" , Walla Quran
-http://cdn.karwan.tv/WALAQURAN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BMC" tvg-logo="https://i.ibb.co/Ph3PBFz/bmc.png" group-title="Kurdish Local",BMC
-http://185.95.184.33:25461/live/120541/20364/88.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zed HD" tvg-logo="https://i.ibb.co/dbB3j8t/zed.png" group-title="Kurdish Local",Zed HD
-http://185.95.184.33:25461/live/120541/20364/89.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Reng Music" tvg-logo="https://i.ibb.co/QHxNxZY/reng-music.jpg" group-title="Kurdish Local",Reng Music
-http://185.95.184.33:25461/live/120541/20364/91.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dimen HD" tvg-logo="https://i.ibb.co/F6v3TNq/dimen.jpg" group-title="Kurdish Local",Dimen HD
-http://185.95.184.33:25461/live/120541/20364/92.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Garian Media" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKKqLDE77bYyNBC9-vMAawujp5mBpEFY4U1Q&s" group-title="Kurdish Local",Garian Media
-http://185.95.184.33:25461/live/120541/20364/93.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rasan HD" tvg-logo="https://i.ibb.co/fFfbmdH/Rasan.jpg" group-title="Kurdish Local",Rasan HD
-http://185.95.184.33:25461/live/120541/20364/94.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Niga Movies" tvg-logo="https://i.ibb.co/nktzZhm/niga-movies.jpg" group-title="Kurdish Local",Niga Movies
-http://185.95.184.33:25461/live/120541/20364/96.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zed Plus" tvg-logo="https://i.ibb.co/2SRBQCx/zed-pulas.jpg" group-title="Kurdish Local",Zed Plus
-http://185.95.184.33:25461/live/120541/20364/99.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Slemani TV" tvg-logo="https://i.ibb.co/ys3ZYpp/slemani.jpg" group-title="Kurdish Local",Slemani TV
-http://185.95.184.33:25461/live/120541/20364/102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Derwaze HD" tvg-logo="https://i.ibb.co/99zdcz1/derwaze.png" group-title="Kurdish Local",Derwaze HD
-http://185.95.184.33:25461/live/120541/20364/104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Niga Family" tvg-logo="https://i.ibb.co/bdc84Sy/niga-family.jpg" group-title="Kurdish Local",Niga Family
-http://185.95.184.33:25461/live/120541/20364/110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewLine HD1" tvg-logo="https://i.ibb.co/9HZ9d5V/new-line.png" group-title="Kurdish Local",NewLine HD1
-http://185.95.184.33:25461/live/120541/20364/112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewLine HD2" tvg-logo="https://i.ibb.co/9HZ9d5V/new-line.png" group-title="Kurdish Local",NewLine HD2
-http://185.95.184.33:25461/live/120541/20364/113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shadi" tvg-logo="https://drive.google.com/file/d/1MTsiqJW_d8_8ZanvTsWonFJC1rbTUPhe/view" group-title="Kurdish Local",Shadi
-http://185.95.184.33:25461/live/120541/20364/119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nishtimani mn" tvg-logo="https://i.ibb.co/8YXYJYV/nishtmanimn.jpg" group-title="Kurdish Local",Nishtimani mn
-http://185.95.184.33:25461/live/120541/20364/126.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aro Sport HD1" tvg-logo="https://i.ibb.co/pR6Yj8G/aro-drama.png" group-title="Kurdish Local",Aro Sport HD1
-http://185.95.184.33:25461/live/120541/20364/129.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kurdana " tvg-logo="" group-title="Kurdish Local",Kurdana 
-http://185.95.184.33:25461/live/120541/20364/131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kalapur" tvg-logo="https://i.ibb.co/yfc7ssR/Kalapur.png" group-title="Kurdish Local",Kalapur
-http://185.95.184.33:25461/live/120541/20364/132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astera Sport HD" tvg-logo="https://i.ibb.co/HnTPHHT/Astera-Sport.jpg" group-title="Kurdish Local",Astera Sport
-http://185.95.184.33:25461/live/120541/20364/149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aro Sport HD 2" tvg-logo="https://i.ibb.co/Njzk37H/aro-sport.png" group-title="Kurdish Local",Aro Sport HD 2
-http://185.95.184.33:25461/live/120541/20364/150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astera Movies HD" tvg-logo="https://i.ibb.co/4PdphQp/astera-movies.jpg" group-title="Kurdish Local",Astera Movies HD
-http://185.95.184.33:25461/live/120541/20364/172.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astera Show HD" tvg-logo="https://i.ibb.co/LvznPMt/Astera-show.jpg" group-title="Kurdish Local",Astera Show HD
-http://185.95.184.33:25461/live/120541/20364/173.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astera Docu HD" tvg-logo="https://i.ibb.co/THzS1gm/astera-docu.png" group-title="Kurdish Local",Astera Docu HD
-http://185.95.184.33:25461/live/120541/20364/174.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astera Family HD" tvg-logo="https://i.ibb.co/rym7MsX/astera-family.jpg" group-title="Kurdish Local",Astera Family HD
-http://185.95.184.33:25461/live/120541/20364/175.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Derwaze Music HD" tvg-logo="https://i.ibb.co/hg76nKd/derwaze-musci.jpg" group-title="Kurdish Local",Derwaze Music HD
-http://185.95.184.33:25461/live/120541/20364/176.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Reng family HD" tvg-logo="https://i.ibb.co/d2Kq5Dw/Reng-Sport.jpg" group-title="Kurdish Local",Reng family HD
-http://185.95.184.33:25461/live/120541/20364/180.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Reng Docu" tvg-logo="https://i.ibb.co/f05z0md/reng-documentary-1.png" group-title="Kurdish Local",Reng Docu
-http://185.95.184.33:25461/live/120541/20364/186.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pelistank HD" tvg-logo="https://i.ibb.co/cw70S9F/pelistank.png" group-title="Kurdish Local",Pelistank HD
-http://185.95.184.33:25461/live/120541/20364/187.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Niga Kids" tvg-logo="https://i.ibb.co/B6QtcJ8/niga-kids.jpg" group-title="Kurdish Local",Niga Kids
-http://185.95.184.33:25461/live/120541/20364/193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astera Baby HD" tvg-logo="https://i.ibb.co/cCWCdN2/astera-baby.jpg" group-title="Kurdish Local",Astera Baby HD
-http://185.95.184.33:25461/live/120541/20364/199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aro Sport HD 3" tvg-logo="https://i.ibb.co/Qk800Rx/aro-kids.png" group-title="Kurdish Local",Aro Sport HD 3
-http://185.95.184.33:25461/live/120541/20364/200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Speda Drama HD" tvg-logo="https://i.ibb.co/802F2WN/Speda-drama.jpg" group-title="Kurdish Local",Speda Drama HD
-http://185.95.184.33:25461/live/120541/20364/201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Reng Kids HD" tvg-logo="https://i.ibb.co/6HNMNKR/reng-kids.png" group-title="Kurdish Local",Reng Kids HD
-http://185.95.184.33:25461/live/120541/20364/204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMN Clastic Music" tvg-logo="https://i.ibb.co/BC3FW56/MMN.png" group-title="Kurdish Local",MMN Clastic Music
-http://185.95.184.33:25461/live/120541/20364/206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMN Documentary" tvg-logo="https://i.ibb.co/BC3FW56/MMN.png" group-title="Kurdish Local",MMN Documentary
-http://185.95.184.33:25461/live/120541/20364/207.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMN Show HD" tvg-logo="https://i.ibb.co/BC3FW56/MMN.png" group-title="Kurdish Local",MMN Show HD
-http://185.95.184.33:25461/live/120541/20364/208.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMN Kids HD" tvg-logo="https://i.ibb.co/BC3FW56/MMN.png" group-title="Kurdish Local",MMN Kids HD
-http://185.95.184.33:25461/live/120541/20364/209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMN Movies HD" tvg-logo="https://i.ibb.co/BC3FW56/MMN.png" group-title="Kurdish Local",MMN Movies HD
-http://185.95.184.33:25461/live/120541/20364/210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMN Quran HD" tvg-logo="https://i.ibb.co/BC3FW56/MMN.png" group-title="Kurdish Local",MMN Quran HD
-http://185.95.184.33:25461/live/120541/20364/211.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMN Radio Farsy" tvg-logo="https://i.ibb.co/BC3FW56/MMN.png" group-title="Kurdish Local",MMN Radio Farsy
-http://185.95.184.33:25461/live/120541/20364/212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMN Sport HD" tvg-logo="https://i.ibb.co/BC3FW56/MMN.png" group-title="Kurdish Local",MMN Sport HD
-http://185.95.184.33:25461/live/120541/20364/213.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMN Clip HD" tvg-logo="https://i.ibb.co/BC3FW56/MMN.png" group-title="Kurdish Local",MMN Clip HD
-http://185.95.184.33:25461/live/120541/20364/214.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMN Radio Turky" tvg-logo="https://i.ibb.co/BC3FW56/MMN.png" group-title="Kurdish Local",MMN Radio Turky
-http://185.95.184.33:25461/live/120541/20364/215.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMN News HD" tvg-logo="https://i.ibb.co/BC3FW56/MMN.png" group-title="Kurdish Local",MMN News HD
-http://185.95.184.33:25461/live/120541/20364/216.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMN Drama HD" tvg-logo="https://i.ibb.co/BC3FW56/MMN.png" group-title="Kurdish Local",MMN Drama HD
-http://185.95.184.33:25461/live/120541/20364/217.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Qallat TV" tvg-logo="https://i.ibb.co/ph9PWTk/qalat-tv.png" group-title="Kurdish Local",Qallat TV
-http://185.95.184.33:25461/live/120541/20364/4075.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astera Sport 2 HD" tvg-logo="https://i.ibb.co/LSpF9L7/Astera-Sport.jpg" group-title="Kurdish Local",Astera Sport 2 HD
-http://185.95.184.33:25461/live/120541/20364/4321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OB Movies HD" tvg-logo="https://i.ibb.co/jWMknGn/352706708-777630533819824-4034947135452899070-n.jpg" group-title="Kurdish Local",OB Movies HD
-http://185.95.184.33:25461/live/120541/20364/4334.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="K24 Documentary" tvg-logo="https://i.ibb.co/R9gWFDf/k24-documentary.png" group-title="Kurdish Local",K24 Documentary
-http://185.95.184.33:25461/live/120541/20364/4362.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Qallam Kids" tvg-logo="https://i.ibb.co/18GMrC5/qallam-kids.jpg" group-title="Kurdish Local",Qallam Kids
-http://185.95.184.33:25461/live/120541/20364/4363.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Qallam Sport" tvg-logo="https://i.ibb.co/X5QJ3rD/qallam-sport.jpg" group-title="Kurdish Local",Qallam Sport
-http://185.95.184.33:25461/live/120541/20364/4364.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Qallam Geographic" tvg-logo="https://i.ibb.co/7jgtggn/qallam.jpg" group-title="Kurdish Local",Qallam Geographic
-http://185.95.184.33:25461/live/120541/20364/4365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cihan" tvg-logo="https://i.ibb.co/M5gqkKC/cihan.png" group-title="Kurdish Local",Cihan
-http://185.95.184.33:25461/live/120541/20364/4366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tasawf" tvg-logo="https://i.ibb.co/W513JY3/tasawf.jpg" group-title="Kurdish Local",Tasawf
-http://185.95.184.33:25461/live/120541/20364/4367.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Azadi Tv" tvg-logo="https://i.ibb.co/1sB71XZ/download.jpg" group-title="Kurdish Local",Azadi Tv
-http://185.95.184.33:25461/live/120541/20364/4694.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Baboly HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROuwQ4YGMiiNBOd81Q-lctgpfBho_REqVdSQ&s" group-title="Kurdish Local",Baboly HD
-http://185.95.184.33:25461/live/120541/20364/4703.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shar TV" tvg-logo="https://scontent.fisu6-2.fna.fbcdn.net/v/t39.30808-6/256241374_1288686114904661_5074907405783346767_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=mT-itvoiNwIAX_XArHY&&oe=661214F9" group-title="Kurdish Local",Shar TV
-http://185.95.184.33:25461/live/120541/20364/4706.m3u8
 --------------------------
 --------------------------
 Kurdish Kids
@@ -461,69 +239,23 @@ http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Afarin Radio." group-title="Kurdish Kids",Afarin Radio.
 http://afarintv2.flashmediacast.com:1935/afarinTV/d1/livestream/HawezHD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Reng Kids HD" tvg-logo="https://i.ibb.co/6HNMNKR/reng-kids.png" group-title="Kurdish Kids",Reng Kids HD tv
-http://185.95.184.33:25461/live/120541/20364/204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pelistank HD" tvg-logo="https://i.ibb.co/cw70S9F/pelistank.png" group-title="Kurdish Kids",Pelistank HD tv
-http://185.95.184.33:25461/live/120541/20364/187.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NRT3 HD" tvg-logo="https://i.ibb.co/zrKf2fs/nrt-3.jpg" group-title="Kurdish Kids",NRT3 HD tv
-http://185.95.184.33:25461/live/120541/20364/194.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Niga Kids" tvg-logo="https://i.ibb.co/B6QtcJ8/niga-kids.jpg" group-title="Kurdish Kids",Niga Kids tv
-http://185.95.184.33:25461/live/120541/20364/193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMN Kids HD" tvg-logo="https://i.ibb.co/BC3FW56/MMN.png" group-title="Kurdish Kids",MMN Kids HD tv
-http://185.95.184.33:25461/live/120541/20364/209.m3u8
-#EXTINF:-1 tvg-name="One Kids." group-title="Kurdish Kids",One Kids.
-http://217.76.62.187/hls/kids.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bask Kids" tvg-logo="blob:https://web.whatsapp.com/8c9826f4-b8df-4a48-954b-0aba01849b8b" group-title="Kurdish Kids",Bask Kids tv
-http://185.95.184.33:25461/live/120541/20364/5593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Qallam Kids" tvg-logo="https://i.ibb.co/18GMrC5/qallam-kids.jpg" group-title="Kurdish Kids",Qallam Kids tv
-http://185.95.184.33:25461/live/120541/20364/4363.m3u8
+
 #EXTINF:-1 tvg-name="KIDCO." group-title="Kurdish Kids",KIDCO.
 http://avrstream.com:1935/live/kidcohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kurdmax Papula" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN05xWeCVN_ZsFhW9ByNHPRB1TrPeOY_z02g&s" group-title="Kurdish Kids",Kurdmax Papula tv
-http://185.95.184.33:25461/live/120541/20364/197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astera Baby HD" tvg-logo="https://i.ibb.co/cCWCdN2/astera-baby.jpg" group-title="Kurdish Kids",Astera Baby HD tv
-http://185.95.184.33:25461/live/120541/20364/199.m3u8
 #EXTINF:-1 tvg-name="MMN KIDS." group-title="Kurdish Kids",MMN KIDS.
 http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
-#EXTINF:-1 tvg-name="Znar Kids" group-title="Kurdish Kids",Znar Kids
+#EXTINF:-1 tvg-name="Znar Kids" group-title="Kurdish Kids",Znar Kids.
 https://183.bozztv.com/giatv/giatv-znarkids/znarkids/playlist.m3u8
 #EXTINF:-1 tvg-name="SPI Kids 4K." group-title="Kurdish Kids",SPI Kids 4K.
 https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 #EXTINF:-1 tvg-name="Zarok TV Sorani." group-title="Kurdish Kids",Zarok TV Sorani.
 https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
-#EXTINF:-1 tvg-name="Zarok TV Kurmanci." group-title="Kurdish Kids",Zarok TV Kurmanci.
-https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
-
 --------------------------
 --------------------------
 Kurdish Sport
 --------------------------
-#EXTINF:-1 tvg-id="" tvg-name="Aro Sport HD1" tvg-logo="https://i.ibb.co/pR6Yj8G/aro-drama.png" group-title="Kurdish Sport",Aro Sport 1 HD
-http://185.95.184.33:25461/live/120541/20364/129.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astera Sport HD" tvg-logo="https://i.ibb.co/HnTPHHT/Astera-Sport.jpg" group-title="Kurdish Sport",Astera Sport HD
-http://185.95.184.33:25461/live/120541/20364/149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astera Sport 2 HD" tvg-logo="https://i.ibb.co/LSpF9L7/Astera-Sport.jpg" group-title="Kurdish Sport",Astera Sport 2 HD TV
-http://185.95.184.33:25461/live/120541/20364/4321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aro Sport HD 2" tvg-logo="https://i.ibb.co/Njzk37H/aro-sport.png" group-title="Kurdish Sport",Aro Sport 2 HD
-http://185.95.184.33:25461/live/120541/20364/150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Qallam Sport" tvg-logo="https://i.ibb.co/X5QJ3rD/qallam-sport.jpg" group-title="Kurdish Sport",Qallam Sport tv
-http://185.95.184.33:25461/live/120541/20364/4364.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aro Sport HD 3" tvg-logo="https://i.ibb.co/Qk800Rx/aro-kids.png" group-title="Kurdish Sport",Aro Sport HD 3 tv
-http://185.95.184.33:25461/live/120541/20364/200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMN Sport HD" tvg-logo="https://i.ibb.co/BC3FW56/MMN.png" group-title="Kurdish Sport",MMN Sport HD tv
-http://185.95.184.33:25461/live/120541/20364/213.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kurdistan Sport HD" tvg-logo="https://i.ibb.co/KNJ1YTX/kurdistan-sport-hd.png" group-title="Kurdish Sport",Kurdistan Sport
-http://185.95.184.33:25461/live/120541/20364/165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NRT Sport HD" tvg-logo="https://i.ibb.co/7tzjjrZ/NRT-Sport.jpg" group-title="Kurdish Sport",NRT Sport
-http://185.95.184.33:25461/live/120541/20364/167.m3u8
-#EXTINF:-1 tvg-name="Spi Sport." group-title="Kurdish Sport",Spi Sport.
-https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8
-#EXTINF:-1 tvg-name="MMN SPORT." group-title="Kurdish Sport",MMN SPORT.
-http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 #EXTINF:-1 tvg-name="Zaytoun Sport TV." group-title="Kurdish Sport",Zaytoun Sport TV.
 https://barham.short.gy/zvgsport.m3u8
-#EXTINF:-1 tvg-name="Ayas Sport" group-title="Kurdish Sport",Ayas Sport
-https://ayassport.776740.ir.cdn.ir/hls2/sport.m3u8
 --------------------------
 --------------------------
 Kurdish Radio
@@ -569,22 +301,12 @@ Kids World
 -------------------------
 #EXTINF:-1 tvg-name="Baby Shark TV" group-title="Kids World",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS Kids Korea" group-title="Kids World",EBS Kids Korea
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="Avatar - The Last Airbender" group-title="Kids World",Avatar - The Last Airbender
-https://jmp2.uk/plu-600adbdf8c554e00072125c9.m3u8
 #EXTINF:-1 tvg-name="Mr Bean Live Action" group-title="Kids World",Mr Bean Live Action
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb543d18726c678c9ed43866cef042a6f9661fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87ea341763a1d759e91ac7bc089655ce183503528b37b1e51ff0e14c0530a60dcef1510ca6ce1204b43aa4d6f5431dfe908ad274fc7895f8262288afbdc7c307b5f58825d5beda65ba0f6e95d43dc38c3c82676adbaf2d1a870b0b50e8ff9960adf61b94cc365feb26b5f1e22a8b2e020f00698544338703ff1d208f3a93dd6ba7a4919e51148267e358685b3b4221d954e4213dafeccb761fe17f47944eb501ab41a91438831c53ee459e7a979a9a3bfd05552798af01b3077eeb5fbcacc3c3deb32a0e2f18b2727d9e40222169d3496726278b7f8c81f8b8c47c6e773d5e5394c78e698579e9bbd9ba0e1d913d275b8b29ef20a4b40670b15951df3ca1fbc07e938f99e5d7126082ecab75ade8fd55231183ea0894cd11514a19bc6c3e80735ce6f0c49aa07fd5e1667d83b7c76867caccfdc0d24eff02b531bdce934fd14b9ac6382c6f845d0f497/155/848x480_1686360/index.m3u8
 #EXTINF:-1 tvg-name="Mr Bean Anime" group-title="Kids World",Mr Bean Anime
 https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/cb543d18726c678c9ed43866cef042a6f9661fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87ea341763a1d759e91ac7bc089655ce183503528b37b1e51ff0e14c0530a60dcef1510ca6ce1204b43aa4d6b0565d9ef5faf274fc7895f8262288afbdc7c3029585a820f5fb0f35caaaeb25942de39c3c82676adbaf2d1a870b0b50e8ff9960adf61b94cc365feb26b5f1e22a8b2e020f00698544338703ff1d208f3a93dd6ba7a4919e51148267e358685b3b4221d954e4213dafeccb761fe17f47944eb501ab41a91438831c53ee459e7a979a9a3bfd05552798af01b3077eeb5fbcacc3c3deb32a0e2f18b2727d9e40222169d3496726278b7f8c81f8b8c47c6e773d5e5394c78e698579e9bbd9ba0e1d913d275b8b29ef20a4b40670b15951df3ca1fbc07e938f99e5d7126082ecab75ade8fd55231183ea0894cd11514a19bc6c3e80735ce6f0c49aa07fd5e1667d83b7c76867ca9c8dc0d43ecf02b5359e3f1a49d170069f35b517cdf615746/102/848x480_1686360/index.m3u8
-#EXTINF:-1 tvg-name="Mr Bean Anime Spain" group-title="Kids World",Mr Bean Anime Spain
-https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/cb543d18726c678c9ed43866cef042a6f9661fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87ea341763a1d759e91ac7bc089655ce183503528b37b1e51ff0e14c0530a60dcef1510ca6ce1204b43aa4d3f0266deee0bfe744fc7895fda62288afbdc7c302e585f82095bb1a20daba9b25e16d168c3c82676adbaf2d1a870b0b50e8ff9960adf61b94cc365feb26b5f1e22a8b2e020f00698544338703ff1d208f3a93dd6ba7a4919e51148267e358685b3b4221d954e4213dafeccb761fe17f47944eb501ab41a91438831c53ee459e7a979a9a3bfd05552798af01b3077eeb5fbcacc3c3deb32a0e2f18b2727d9e40222169d3496726278b7f8c81f8b8c47c6e773d5e5394c78e698579e9bbd9ba0e1d913d275b8b29ef20a4b40670b15951df3ca1fbc07e938f99e5d7126082ecab75ade8fd55231183ea0894cd11514a19bc6c3e80735ce6f0c49aa07fd5e1667d83b7c768775af7a5df043dca4e3701fc74b695379e32b9a1cefee9e1cc9/86/848x480_1686360/index.m3u8
 #EXTINF:-1 tvg-name="Tom And Jerry" group-title="Kids World",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="4 Fun Kids" group-title="Kids World",4 Fun Kids
-https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
-#EXTINF:-1 tvg-name="BeJoy Kids" group-title="Kids World",BeJoy Kids
-https://64b16f23efbee.streamlock.net/bejoy/bejoy/chunklist_w122743058.m3u8
 #EXTINF:-1 tvg-name="Bolajon" group-title="Kids World",Bolajon
 https://stream8.cinerama.uz/1007/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Chinola TV" group-title="Kids World",Chinola TV
@@ -593,8 +315,6 @@ https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Duck tv" group-title="Kids World",Duck tv
 https://d6lk10bkdgfae.cloudfront.net/DuckTVHDSAMS/DuckTVHDSAMS_720p_AAC.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="Extrema Kids TV" group-title="Kids World",Extrema Kids TV
-https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w1093519071.m3u8
 #EXTINF:-1 tvg-name="Lunior TV" group-title="Kids World",Lunior TV
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
 #EXTINF:-1 tvg-name="japanim TV" group-title="Kids World",japanim TV
@@ -615,8 +335,6 @@ https://dh18i7whff86v.cloudfront.net/2.m3u8
 https://moonbug-rokuus.amagi.tv/720p-cc/index.m3u8
 #EXTINF:-1 tvg-name="PBS Kids Alaska" group-title="Kids World",PBS Kids Alaska
 https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst_2.m3u8
-#EXTINF:-1 tvg-name="PBS Kids Eastern/Central" group-title="Kids World",PBS Kids Eastern/Central
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-name="PBS Kids Hawaii" group-title="Kids World",PBS Kids Hawaii
 https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast_2.m3u8
 #EXTINF:-1 tvg-name="PBS Kids Mountain" group-title="Kids World",PBS Kids Mountain
@@ -625,14 +343,6 @@ https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst_2.m3u
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst_2.m3u8
 #EXTINF:-1 tvg-name="Persiana Junior" group-title="Kids World",Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Roya Kids" group-title="Kids World", Roya Kids
-https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist/1.m3u8
-#EXTINF:-1 tvg-name="Roya Kids Orginals" group-title="Kids World", Roya Kids Orginals
-https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist/2.m3u8
-#EXTINF:-1 tvg-name="Sat 7 Kids" group-title="Kids World", Sat 7 Kids
-https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/sat7kidspublish/sat7kids_360p/chunks_dvr.m3u8
-#EXTINF:-1 tvg-name="Teletubbies" group-title="Kids World", Teletubbies
-https://dy9gbyiaxw0rb.cloudfront.net/0.m3u8
 #EXTINF:-1 tvg-name="Tiny Pop" group-title="Kids World", Tiny Pop
 https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/480p/index.m3u8
 #EXTINF:-1 tvg-name="Tom and Jerry" group-title="Kids World", Tom and Jerry
@@ -647,676 +357,243 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 https://bsttv.bonus-tv.ru/cdn/tamyr/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1
 #EXTINF:-1 tvg-name="MR Bean" group-title="Kids World", MR Bean
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-#EXTINF:-1 tvg-name="MR Bean 2" group-title="Kids World", MR Bean 2
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 ---------------------------------
 ---------------------------------
 Wordls Sport
 --------------------------------
-#EXTINF:-1  group-title="Sport World", Bein Sport
-https://connect-live.bein.com/besmenasports/index.mpd?hdnts=data=env=beinmena-production,customerID=0,clientID=256,jwt=eyJhbGciOiJIUzI1NiJ9.eyJpZF9jaGFubmVsIjo3NCwiYXBpcCI6IjE2OS4yMjQuNzAuMTI3IiwiaWRfaWRlbnRpdHkiOjAsImlkX2RldmljZSI6Im9wZW5hcGkiLCJpZF9jdXN0b21lciI6MCwiaWRfc3RyZWFtIjoiYTUwYzk0ZGQtZDgzZi00YjNiLTg5OGYtMDI0NjkzZThlNzdiIn0.Z79W4xov_LJ1SjZzdE9Fwvu6qyeL9MisU0uS6vGQNeU~st=1784483412~exp=1784526612~acl=/besmenasports/*~hmac=b366a611bad0537a0a9acd42398ebe7a63f6fd27b678f06220022e20c9931095&?idChannel=74&playerName=bitmovin-web&playerVersion=10.0&checksum=IxdUGgtzleC%2BdcaNMmZeOClGauYnuJdsKg5uOwtm3JE%3D
-#EXTINF:-1  group-title="Sport World", Sport 1
-https://cp11.adabmedia.com/hls2/sport.m3u8
-#EXTINF:-1  group-title="Sport World", Persian 2 Sport 
-https://pepsi.abntv.live/hls/4spstream.m3u8
-#EXTINF:-1  group-title="Sport World", Persian 3 Sport 
-https://pepsi3.abntv.live/hls/psp3.m3u8
-#EXTINF:-1  group-title="Sport World", Persian 4 Sport
-https://pepsi4.abntv.live/hls/psp4.m3u8
-#EXTINF:-1  group-title="Sport World",Bein Sport Extra esp.
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="Alkass1.qa" tvg-name="Alkass 1" group-title="Sport World",Alkass 1
-https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-#EXTINF:-1 tvg-id="Alkass2.qa" tvg-name="Alkass 2" group-title="Sport World",Alkass 2
-https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
-#EXTINF:-1 tvg-id="Alkass3.qa" tvg-name="Alkass 3" group-title="Sport World",Alkass 3
-https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
-#EXTINF:-1 tvg-id="Alkass4.qa" tvg-name="Alkass 4" group-title="Sport World",Alkass 4
-https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
-#EXTINF:-1 tvg-id="Alkass5.qa" tvg-name="Alkass 5" group-title="Sport World",Alkass 5
-https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
-#EXTINF:-1 tvg-id="Alkass6.qa" tvg-name="Alkass 6" group-title="Sport World",Alkass 6
-https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+
 -------------------------------
 -------------------------------
 Ramazan Shulur Quran
 -----------------------------
 #EXTM3U
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفاتحة
 https://server6.mp3quran.net/shakoor/001.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة البقرة
 https://server6.mp3quran.net/shakoor/002.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة آل عمران
 https://server6.mp3quran.net/shakoor/003.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النساء
 https://server6.mp3quran.net/shakoor/004.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المائدة
 https://server6.mp3quran.net/shakoor/005.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأنعام
 https://server6.mp3quran.net/shakoor/006.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأعراف
 https://server6.mp3quran.net/shakoor/007.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأنفال
 https://server6.mp3quran.net/shakoor/008.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التوبة
 https://server6.mp3quran.net/shakoor/009.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة يونس
 https://server6.mp3quran.net/shakoor/010.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة هود
 https://server6.mp3quran.net/shakoor/011.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة يوسف
 https://server6.mp3quran.net/shakoor/012.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الرعد
 https://server6.mp3quran.net/shakoor/013.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة إبراهيم
 https://server6.mp3quran.net/shakoor/014.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحجر
 https://server6.mp3quran.net/shakoor/015.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النحل
 https://server6.mp3quran.net/shakoor/016.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الإسراء
 https://server6.mp3quran.net/shakoor/017.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الكهف
 https://server6.mp3quran.net/shakoor/018.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة مريم
 https://server6.mp3quran.net/shakoor/019.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة طه
 https://server6.mp3quran.net/shakoor/020.mp3
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأنبياء
 https://server6.mp3quran.net/shakoor/021.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحج
 https://server6.mp3quran.net/shakoor/022.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المؤمنون
 https://server6.mp3quran.net/shakoor/023.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النور
 https://server6.mp3quran.net/shakoor/024.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفرقان
 https://server6.mp3quran.net/shakoor/025.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الشعراء
 https://server6.mp3quran.net/shakoor/026.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النمل
 https://server6.mp3quran.net/shakoor/027.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القصص
 https://server6.mp3quran.net/shakoor/028.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة العنكبوت
 https://server6.mp3quran.net/shakoor/029.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الروم
 https://server6.mp3quran.net/shakoor/030.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة لقمان
 https://server6.mp3quran.net/shakoor/031.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة السجدة
 https://server6.mp3quran.net/shakoor/032.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأحزاب
 https://server6.mp3quran.net/shakoor/033.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة سبأ
 https://server6.mp3quran.net/shakoor/034.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة فاطر
 https://server6.mp3quran.net/shakoor/035.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة يس
 https://server6.mp3quran.net/shakoor/036.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الصافات
 https://server6.mp3quran.net/shakoor/037.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة ص
 https://server6.mp3quran.net/shakoor/038.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الزمر
 https://server6.mp3quran.net/shakoor/039.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة غافر
 https://server6.mp3quran.net/shakoor/040.mp3
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة فصلت
 https://server6.mp3quran.net/shakoor/041.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الشورى
 https://server6.mp3quran.net/shakoor/042.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الزخرف
 https://server6.mp3quran.net/shakoor/043.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الدخان
 https://server6.mp3quran.net/shakoor/044.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الجاثية
 https://server6.mp3quran.net/shakoor/045.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأحقاف
 https://server6.mp3quran.net/shakoor/046.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة محمد
 https://server6.mp3quran.net/shakoor/047.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفتح
 https://server6.mp3quran.net/shakoor/048.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحجرات
 https://server6.mp3quran.net/shakoor/049.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة ق
 https://server6.mp3quran.net/shakoor/050.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الذاريات
 https://server6.mp3quran.net/shakoor/051.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الطور
 https://server6.mp3quran.net/shakoor/052.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النجم
 https://server6.mp3quran.net/shakoor/053.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القمر
 https://server6.mp3quran.net/shakoor/054.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الرحمن
 https://server6.mp3quran.net/shakoor/055.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الواقعة
 https://server6.mp3quran.net/shakoor/056.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحديد
 https://server6.mp3quran.net/shakoor/057.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المجادلة
 https://server6.mp3quran.net/shakoor/058.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحشر
 https://server6.mp3quran.net/shakoor/059.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الممتحنة
 https://server6.mp3quran.net/shakoor/060.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الصف
 https://server6.mp3quran.net/shakoor/061.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الجمعة
 https://server6.mp3quran.net/shakoor/062.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المنافقون
 https://server6.mp3quran.net/shakoor/063.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التغابن
 https://server6.mp3quran.net/shakoor/064.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الطلاق
 https://server6.mp3quran.net/shakoor/065.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التحريم
 https://server6.mp3quran.net/shakoor/066.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الملك
 https://server6.mp3quran.net/shakoor/067.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القلم
 https://server6.mp3quran.net/shakoor/068.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحاقة
 https://server6.mp3quran.net/shakoor/069.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المعارج
 https://server6.mp3quran.net/shakoor/070.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة نوح
 https://server6.mp3quran.net/shakoor/071.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الجن
 https://server6.mp3quran.net/shakoor/072.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المزمل
 https://server6.mp3quran.net/shakoor/073.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المدثر
 https://server6.mp3quran.net/shakoor/074.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القيامة
 https://server6.mp3quran.net/shakoor/075.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الإنسان
 https://server6.mp3quran.net/shakoor/076.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المرسلات
 https://server6.mp3quran.net/shakoor/077.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النبأ
 https://server6.mp3quran.net/shakoor/078.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النازعات
 https://server6.mp3quran.net/shakoor/079.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة عبس
 https://server6.mp3quran.net/shakoor/080.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التكوير
 https://server6.mp3quran.net/shakoor/081.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الانفطار
 https://server6.mp3quran.net/shakoor/082.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المطففين
 https://server6.mp3quran.net/shakoor/083.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الانشقاق
 https://server6.mp3quran.net/shakoor/084.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة البروج
 https://server6.mp3quran.net/shakoor/085.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الطارق
 https://server6.mp3quran.net/shakoor/086.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأعلى
 https://server6.mp3quran.net/shakoor/087.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الغاشية
 https://server6.mp3quran.net/shakoor/088.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفجر
 https://server6.mp3quran.net/shakoor/089.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة البلد
 https://server6.mp3quran.net/shakoor/090.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الشمس
 https://server6.mp3quran.net/shakoor/091.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الليل
 https://server6.mp3quran.net/shakoor/092.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الضحى
 https://server6.mp3quran.net/shakoor/093.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الشرح
 https://server6.mp3quran.net/shakoor/094.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التين
 https://server6.mp3quran.net/shakoor/095.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة العلق
 https://server6.mp3quran.net/shakoor/096.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القدر
 https://server6.mp3quran.net/shakoor/097.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة البينة
 https://server6.mp3quran.net/shakoor/098.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الزلزلة
 https://server6.mp3quran.net/shakoor/099.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة العاديات
 https://server6.mp3quran.net/shakoor/100.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القارعة
 https://server6.mp3quran.net/shakoor/101.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التكاثر
 https://server6.mp3quran.net/shakoor/102.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة العصر
 https://server6.mp3quran.net/shakoor/103.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الهمزة
 https://server6.mp3quran.net/shakoor/104.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفيل
 https://server6.mp3quran.net/shakoor/105.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة قريش
 https://server6.mp3quran.net/shakoor/106.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الماعون
 https://server6.mp3quran.net/shakoor/107.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الكوثر
 https://server6.mp3quran.net/shakoor/108.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الكافرون
 https://server6.mp3quran.net/shakoor/109.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النصر
 https://server6.mp3quran.net/shakoor/110.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المسد
 https://server6.mp3quran.net/shakoor/111.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الإخلاص
 https://server6.mp3quran.net/shakoor/112.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفلق
 https://server6.mp3quran.net/shakoor/113.mp3
-
 #EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الناس
 https://server6.mp3quran.net/shakoor/114.mp3
 ------------------------
 ------------------------
-#EXTINF:-1 group-title="Premium Movie Channels",Cinemax HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78625.ts
-#EXTINF:-1 group-title="Premium Movie Channels",Cinemax HD West*
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78626.ts
-#EXTINF:-1 group-title="Premium Movie Channels",Cinemax Classics
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78627.ts
-#EXTINF:-1 group-title="Premium Movie Channels",Cinemax Action East
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78628.ts
-#EXTINF:-1 group-title="Premium Movie Channels",Cinemax Action WEST
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78629.ts
-#EXTINF:-1 group-title="Premium Movie Channels",Cinemax en Español
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78630.ts
-#EXTINF:-1 group-title="Premium Movie Channels",Cinemax Hits East
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78631.ts
-#EXTINF:-1 group-title="Premium Movie Channels",Cinemax Hits West
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78632.ts
-#EXTINF:-1 group-title="Premium Movie Channels",MGM+ HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78637.ts
-#EXTINF:-1 group-title="Premium Movie Channels",MGM+ Drive-In HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78638.ts
-#EXTINF:-1 group-title="Premium Movie Channels",MGM+ Hits HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78639.ts
-#EXTINF:-1 group-title="Premium Movie Channels",HBO EAST HD*
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78778.ts
-#EXTINF:-1 group-title="Premium Movie Channels",HBO WEST HD*
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78779.ts
-#EXTINF:-1 group-title="Premium Movie Channels",HBO HIts EAST
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78780.ts
-#EXTINF:-1 group-title="Premium Movie Channels",HBO HIts WEST
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78781.ts
-#EXTINF:-1 group-title="Premium Movie Channels",HBO Comedy HD East
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78782.ts
-#EXTINF:-1 group-title="Premium Movie Channels",HBO Comedy HD West
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78783.ts
-#EXTINF:-1 group-title="Premium Movie Channels",HBO Drama EAST*
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78786.ts
-#EXTINF:-1 group-title="Premium Movie Channels",HBO Drama WEST
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78787.ts
-#EXTINF:-1 group-title="Premium Movie Channels",HBO Movies EAST
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78788.ts
-#EXTINF:-1 group-title="Premium Movie Channels",HBO Movies WEST
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78789.ts
-#EXTINF:-1 group-title="Premium Movie Channels",INDIE PLEX EAST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78790.ts
-#EXTINF:-1 group-title="Premium Movie Channels",INDIE PLEX WEST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78792.ts
-#EXTINF:-1 group-title="Premium Movie Channels",MOVIE PLEX EAST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78794.ts
-#EXTINF:-1 group-title="Premium Movie Channels",RETRO PLEX EAST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78798.ts
-#EXTINF:-1 group-title="Premium Movie Channels",Paramount+ with Showime EAST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78802.ts
-#EXTINF:-1 group-title="Premium Movie Channels",Paramount+ with Showtime WEST
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78804.ts
-#EXTINF:-1 group-title="Premium Movie Channels",SHOWTIME 2 EAST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78805.ts
-#EXTINF:-1 group-title="Premium Movie Channels",SHOWTIME 2 WEST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78807.ts
-#EXTINF:-1 group-title="Premium Movie Channels",SHO x BET EAST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78809.ts
-#EXTINF:-1 group-title="Premium Movie Channels",SHO x BET WEST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78810.ts
-#EXTINF:-1 group-title="Premium Movie Channels",SHOWTIME EXTREME EAST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78812.ts
-#EXTINF:-1 group-title="Premium Movie Channels",SHOWTIME EXTREME WEST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78813.ts
-#EXTINF:-1 group-title="Premium Movie Channels",SHOWTIME FAMILY ZONE EAST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78815.ts
-#EXTINF:-1 group-title="Premium Movie Channels",SHOWTIME FAMILY ZONE WEST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78816.ts
-#EXTINF:-1 group-title="Premium Movie Channels",SHOWTIME NEXT EAST HD*
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78817.ts
-#EXTINF:-1 group-title="Premium Movie Channels",SHOWTIME NEXT WEST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78819.ts
-#EXTINF:-1 group-title="Premium Movie Channels",SHOWTIME SHOWCASE EAST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78820.ts
-#EXTINF:-1 group-title="Premium Movie Channels",SHOWTIME SHOWCASE WEST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78821.ts
-#EXTINF:-1 group-title="Premium Movie Channels",SHOWTIME WOMEN EAST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78822.ts
-#EXTINF:-1 group-title="Premium Movie Channels",SHOWTIME WOMEN WEST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78824.ts
-#EXTINF:-1 group-title="Premium Movie Channels",STARZ HD East*
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78826.ts
-#EXTINF:-1 group-title="Premium Movie Channels",STARZ CINEMA EAST HD*
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78827.ts
-#EXTINF:-1 group-title="Premium Movie Channels",STARZ COMEDY EAST HD*
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78831.ts
-#EXTINF:-1 group-title="Premium Movie Channels",STARZ EDGE EAST HD*
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78833.ts
-#EXTINF:-1 group-title="Premium Movie Channels",STARZ IN BLACK EAST HD*
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78836.ts
-#EXTINF:-1 group-title="Premium Movie Channels",STARZ KIDS & FAMILY EAST HD*
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78838.ts
-#EXTINF:-1 group-title="Premium Movie Channels",STARZ ENCORE EAST*
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78840.ts
-#EXTINF:-1 group-title="Premium Movie Channels",STARZ ENCORE ESPANOL EAST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78841.ts
-#EXTINF:-1 group-title="Premium Movie Channels",STARZ ENCORE ACTION EAST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78845.ts
-#EXTINF:-1 group-title="Premium Movie Channels",STARZ ENCORE BLACK EAST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78849.ts
-#EXTINF:-1 group-title="Premium Movie Channels",STARZ ENCORE CLASSIC EAST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78851.ts
-#EXTINF:-1 group-title="Premium Movie Channels",STARZ ENCORE FAMILY EAST HD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78854.ts
-#EXTINF:-1 group-title="Premium Movie Channels",STARZ ENCORE SUSPENSE EAST HD*
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/78856.ts
-#EXTINF:-1 group-title="Premium Movie Channels",Screenpix
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79161.ts
-#EXTINF:-1 group-title="Premium Movie Channels",Screenpix Action
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79162.ts
-#EXTINF:-1 group-title="Premium Movie Channels",Screenpix Voices
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79163.ts
-#EXTINF:-1 group-title="Premium Movie Channels",Screenpix Westerns
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79164.ts
-#EXTINF:-1 group-title="Premium Movie Channels",Starz Encore Westerns East
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79178.ts
-#EXTINF:-1 group-title="Premium Movie Channels",CINEBOX: ANIMATION
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79913.ts
-#EXTINF:-1 group-title="Premium Movie Channels",CINEBOX: BLOCKBUSTERS
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79914.ts
-#EXTINF:-1 group-title="Premium Movie Channels",CINEBOX: CLASSIC
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79915.ts
-#EXTINF:-1 group-title="Premium Movie Channels",CINEBOX: COMEDY
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79916.ts
-#EXTINF:-1 group-title="Premium Movie Channels",CINEBOX: CULT
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79917.ts
-#EXTINF:-1 group-title="Premium Movie Channels",CINEBOX: FAMILY
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79918.ts
-#EXTINF:-1 group-title="Premium Movie Channels",CINEBOX: GREATS
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79919.ts
-#EXTINF:-1 group-title="Premium Movie Channels",CINEBOX: GREATS TWO
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79920.ts
-#EXTINF:-1 group-title="Premium Movie Channels",CINEBOX: HISTORICAL
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79921.ts
-#EXTINF:-1 group-title="Premium Movie Channels",CINEBOX: HORROR
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79922.ts
-#EXTINF:-1 group-title="Premium Movie Channels",CINEBOX: MUSICAL
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79923.ts
-#EXTINF:-1 group-title="Premium Movie Channels",CINEBOX: MYSTERY
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79924.ts
-#EXTINF:-1 group-title="Premium Movie Channels",CINEBOX: PREMIERE
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79925.ts
-#EXTINF:-1 group-title="Premium Movie Channels",CINEBOX: ROMANCE
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/79926.ts
-#EXTINF:-1 group-title="Premium Movie Channels",Maverick Black Cinema
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/154341.ts
-#EXTINF:-1 group-title="Premium Movie Channels",The Movie Channel
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/496538.ts
-#EXTINF:-1 group-title="Premium Movie Channels",Faith Based Family Films
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/966421.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | ACTION MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916530.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | BACK TO THE FUTURE
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916531.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | BATMAN MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916532.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | BLADE MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916533.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | BOXING MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916534.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | CHILDREN OF THE CORN
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916535.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | COMEDY MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916536.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | CRIME MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916537.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | DIE HARD
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916538.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | DISNEY MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916539.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | DISNEY SONGS
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916540.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | DREAMWORKS ANIMATION
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916541.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | FAST AND FURIOUS
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916542.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | FIFTY SHADES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916543.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | HARRY POTTER
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916544.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | HORROR MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916545.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | INDIANA JONES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916546.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | INSIDIOUS MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916547.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | JAMES BOND
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916548.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | JASON BOURNE
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916549.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | KUNG FU PANDA
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916550.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | LETHAL WEAPON
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916551.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | LORD OF THE RINGS
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916552.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | MATRIX
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916553.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | MEN IN BLACK
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916554.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | MORTAL KOMBAT
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916555.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | MR BEAN
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916556.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | PIRATES OF THE CARIBBEAN
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916557.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | PLANET OF THE APES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916558.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | PREDATOR/ALIEN MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916559.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | RAMBO
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916561.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | ROCKY
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916562.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | ROMANCE MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916563.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | RUSH HOUR
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916564.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | SCI-FI MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916565.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | SPORTS MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916566.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | STAR TREK MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916567.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | STAR WARS
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916568.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | SUPERHERO MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916569.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | TEXAS CHAINSAW MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916570.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | THE HANGOVER
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916571.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | THRILLER MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916572.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | TOY STORY
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916573.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | TRAILER PARK BOYS
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916574.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | TRANSFORMERS
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916575.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | TRANSPORTER
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916576.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | TWILIGHT
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916577.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | VAMPIRE MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916579.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | WAR MOVIES
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916580.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | WRESTLEMANIA
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916582.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | X-MEN
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916583.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | A NIGHTMARE ON ELM STREET
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916591.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | AVATAR
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916604.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | FRIDAY THE 13TH
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/916675.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | Major League Movies
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/921676.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | Jurassic Park Movies
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/921677.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | Predator
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/921679.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | Saw
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/921680.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | Scream Movies
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/921681.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | Westerns
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/921682.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7: American Pie
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/967631.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7: Aladdin Movies
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/967632.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7: Stephen King Movies
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/967633.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7: Dumb & Dumber Movies
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/975415.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7: Tom Clancy's Jack Ryan
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/976428.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7: Venom Movies
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/976429.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7: Oceans (11,12,13,8)
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/976430.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | Mission Impossible Collection
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/989358.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | The Conjuring Collection
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/989359.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | Expendables Collection
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/989360.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | Police Academy Collection
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/989361.ts
-#EXTINF:-1 group-title="Movie Collections/Box Sets",24/7 | Stephen King Movies
-http://vividmedia.xyz:80/live/Vonda123/Vonda123/921675.ts
