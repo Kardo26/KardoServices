@@ -17,6 +17,7 @@ https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 https://live.host247.net/gk/gksat/chunklist_w950982176.m3u8
 #EXTINF:-1 tvg-name="K24" group-title="Kurdish News",K24.
 https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
+
 --------------------------
 --------------------------
 Kurdish Sattelite
@@ -55,6 +56,8 @@ https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8
 https://dengetv.ozelip.com:3143/live/dengelive.m3u8
 #EXTINF:-1 tvg-name="EUROKURD" group-title="Kurdish Sat",EUROKURD
 http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8
+#EXTINF:-1 tvg-name="Spedatv" group-title="Kurdish Sat", Speda TV
+https://speda1.site/upload/images/spedahd.m3u8
 #EXTINF:-1 tvg-name="JIN TV" group-title="Kurdish Sat",JIN TV
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-name="Kurdistan TV" group-title="Kurdish Sat",Kurdistan TV
@@ -121,6 +124,8 @@ http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-dekanquran/dekanquran/chunks.m3u8
 #EXTINF:-1 tvg-name="RED TV" group-title="Kurdish Local",RED TV
 http://avrstream.com:1935/live/REDTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Komal TV Hawler" group-title="Kurdish Local",Komal TV Hawler
+https://lbgo.bozztv.com/ssh101/ssh101/onetvkomall/chunks.m3u8
 #EXTINF:-1 tvg-name="Barin Quran" group-title="Kurdish Local",Barin Quran
 http://baskhd.ddns.net:40/live/QURANHDTV/mono.m3u8
 #EXTINF:-1 tvg-name="Barin Family" group-title="Kurdish Local",Barin Family
@@ -133,6 +138,8 @@ https://cdn.karwan.tv/bnar-movies/index.m3u8
 https://cdn.karwan.tv/bnar-family/index.m3u8
 #EXTINF:-1 tvg-name="Barin Movies" group-title="Kurdish Local",Barin Movies
 https://cdn.karwan.tv/barin-movies/index.m3u8
+#EXTINF:-1 tvg-name="Speda Drama" group-title="Kurdish Local",Speda Drama
+https://speda2.site/upload/images/spedadrama.m3u8
 #EXTINF:-1 tvg-name="Infinity TV" group-title="Kurdish Local",Infinity TV
 https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Animal Box" group-title="Kurdish Local",Animal Box
@@ -229,6 +236,16 @@ https://183.bozztv.com/giatv/giatv-rsunnat/rsunnat/playlist.m3u8
 https://183.bozztv.com/giatv/giatv-znarkids/znarkids/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Kurdi" group-title="Kurdish Local",Radio Kurdi
 https://183.bozztv.com/giatv/giatv-radiokurdi/radiokurdi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Walla FM" tvg-logo="" group-title="Kurdish Local",Walla Fm
+https://cdn.karwan.tv/WALAFM/index.m3u815:02
+#EXTINF:-1 tvg-id="" tvg-name="Shar TV NEW" tvg-logo="" group-title="Kurdish Local",Shar TV New
+http://avrstream.com:1935/live/SHARTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shar Quran TV " tvg-logo="" group-title="Kurdish Local",Shar Quran TV New
+https://live20.bozztv.com/giatv/giatv-sharqurantv/sharqurantv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duhok Movies TV" tvg-logo="" group-title="Kurdish Local",Duhok Movies TV
+https://lbgo.bozztv.com/ssh101/live/Duhok_Moves/chunks.m3u8?lb_backend_hint=6
+#EXTINF:-1 tvg-id="" tvg-name="Remar TV" tvg-logo="" group-title="Kurdish Local",Ramer TV
+https://lbgo.bozztv.com/ssh101/live/stv-oremar/playlist.m3u8
 --------------------------
 --------------------------
 Kurdish Kids
@@ -256,6 +273,10 @@ Kurdish Sport
 --------------------------
 #EXTINF:-1 tvg-name="Zaytoun Sport TV." group-title="Kurdish Sport",Zaytoun Sport TV.
 https://barham.short.gy/zvgsport.m3u8
+#EXTINF:-1 tvg-name="Zaytoun Sport V1 TV." group-title="Kurdish Sport",Zaytoun Sport V1 TV.
+https://kardovip.short.gy/Zaytounsport1.m3u8
+#EXTINF:-1 tvg-name="Zaytoun Sport V2 TV." group-title="Kurdish Sport",Zaytoun Sport V2 TV.
+https://kardovip.short.gy/Zaytounsport2.m3u8
 --------------------------
 --------------------------
 Kurdish Radio
@@ -290,8 +311,8 @@ https://c2.radioboss.fm:18564/stream
 https://dengezelalradyo.ozelip.com:8546/stream
 #EXTINF:-1 tvg-name="Radyo Dengê Îlahî" group-title="Kurdish Radio",Radyo Dengê Îlahî
 https://ssl22.radyotelekom.com:8224/stream
-#EXTINF:-1 tvg-id="" tvg-name="Radio Traffic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdyJo1eDCaTrDOi0Ap01P-I7pIh1erL8_pOA&s" group-title="Kurdish Radio",Radio Traffic
-http://185.95.184.33:25461/live/120541/20364/5013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Walla FM" tvg-logo="" group-title="Kurdish Radio",Walla Fm.
+https://cdn.karwan.tv/WALAFM/index.m3u815:02
 --------------------------
 Kurdsih VIP
 --------------------------
@@ -357,6 +378,13 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 https://bsttv.bonus-tv.ru/cdn/tamyr/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1
 #EXTINF:-1 tvg-name="MR Bean" group-title="Kids World", MR Bean
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-name="The Pet Collective Australia 720p" group-title="Kids World", The Pet Collective Australia 720p
+https://the-pet-collective-international-au.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-name="ToonGoggles 720p" group-title="Kids World", ToonGoggles 720p
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/ts-eu-w1-n2/playlist/amg01329-otterainc-toongoggles-samsungau/cb543d18726c678c9ed43866cef042a5f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7356db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a5af1c56953145f59617cd811bea87d3588311d370f9099c93a68ace4287d0927ea855b5635f0d7a24ccd121c0fb74dcb4f2acdefa0b4a6f2f17828a81ff5f4ee92d217dcb8f003bf89d69aaa83688614ddb4af81dc658d81aca69c7812e408d9ba6222159c4a43b4707ea898199f2347c9f67fcaaeddc77463e977e656ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d114cbd3e2d8af878444ca719187ecce690b0e4214128a58959f6ff020c937fd9d446f0f1b04e5b17df0abf512706e468d851ef31618b2d4c2c3fc0629c56d1e15b9358d1555229c7a3c3cd62cff9b2e65c67359d27b6ead18108445b3e979a1e98bab5675e5acb2289558e6bb0edde111e93c6c2b659dc66c0e15022daaa10c641d70c057ebc0c5e7637b69c1feceeccf4037012d6d3c298fe5e230d6cef7201312ce443522133412850fc266cf0a2b527a297f702397c1e3fd084e7a5881c048f9bc859c6a1d9121/24/1280x720_3071200/index.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon (Germany)" group-title="Kids World",Nickelodeon (Germany)
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+
 ---------------------------------
 ---------------------------------
 Wordls Sport
